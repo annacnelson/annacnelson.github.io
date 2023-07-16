@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
+title: Fibrin polymerization with fibrinogen interactions
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category: blood clot formation
+related_publications: nelson2021mathematical, nelson2020kinetic, nelson2023towards
 ---
 
 Every project has a beautiful feature showcase page.
