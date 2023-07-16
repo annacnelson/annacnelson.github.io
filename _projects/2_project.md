@@ -1,6 +1,6 @@
 ---
 layout: page
-title: post-gelation fibrin polymerization
+title: platelet aggregation, fibrin gel formation
 description: a project with a background image
 img: assets/img/3.jpg
 importance: 2
