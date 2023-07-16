@@ -5,7 +5,7 @@ permalink: /
 subtitle: William W. Elliott Assistant Research Professor, Department of Mathematics, Duke Unviersity
 profile:
   align: right
-  image: /assets/img/newheadshot.png
+  image: /assets/img/newheadshot.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Physics 210</p>
