@@ -22,7 +22,7 @@ My field of research is mathematical biology, and I am primarily interested in s
 
 Prior to Duke, I completed my Ph.D. in mathematics in the [Department of Mathematics](https://math.utah.edu "Department of Mathematics") at the University of Utah under the supervision of [Aaron L. Fogelson](https://math.utah.edu/~fogelson "Aaron L. Fogelson" ). 
 
-Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354), hiking, baking, traveling, and playing/directing [handbells](/MathematicsOfBellRinging_2020Talk.pdf).
+Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354), hiking, baking, traveling, and playing/directing [handbells](/assets/pdf/MathematicsOfBellRinging_2020Talk.pdf).
 
  <hr/>
 ##### Upcoming Activities<br/> 
