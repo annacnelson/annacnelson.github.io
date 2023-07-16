@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
+title: topological data analysis and resource allocation
 description: a project with no image
 img:
 importance: 4
-category: fun
+category: complex social systems
 ---
 
 Every project has a beautiful feature showcase page.
