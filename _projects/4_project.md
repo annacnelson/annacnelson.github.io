@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
+title: oral contraceptive use and blood clot formation
 description: another without an image
 img:
 importance: 3
-category: fun
+category: sex differences in physiology
 ---
 
 Every project has a beautiful feature showcase page.
