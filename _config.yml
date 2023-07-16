@@ -8,12 +8,7 @@ middle_name: C.
 last_name: Nelson
 email: anelson@math.duke.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
- Since Fall 2021, I am a William W. Elliott Assistant Research Professor in the
- [Department of Mathematics](https://math.duke.edu/ "Department of Mathematics") at 
- Duke University, where I am working with [Veronica Ciocanel](https://services.math.duke.edu/~ciocanel/ "Veronica Ciocanel"). 
- My field of research is mathematical biology, and I am primarily interested in simulating, modeling, and
- analyzing aggregation and polymerization processes in cellular physiology. My research interests include 
- dynamical systems, mathematical modeling, and stochastic processes. Based on [*folio](https://github.com/bogoli/-folio) design.
+Website for Anna Nelson
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -78,7 +73,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
+twitter_username: anna_c_nelson # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
@@ -117,7 +112,7 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics:  G-206499462 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
