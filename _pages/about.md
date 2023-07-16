@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: William W. Elliott Assistant Research Professor, Department of Mathematics, Duke Unviersity
 profile:
   align: right
   image: newheadshot.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Physics 210</p>
+    <p>Department of Mathematics, Duke University</p>
+    <p>anelson@math.duke.edu</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
