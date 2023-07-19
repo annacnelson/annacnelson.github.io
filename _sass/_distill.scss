@@ -31,9 +31,15 @@ d-article {
       color: var(--global-theme-color) !important;
     }
   }
-  b i {
+  i {
     display: inline;
   }
+
+  b {
+     display: inline;
+    color: var(--global-theme-color);
+  }
+  
 
   // Style taken from code blocks
   details {  
