@@ -25,6 +25,7 @@ Prior to Duke, I completed my Ph.D. in mathematics in the [Department of Mathema
 Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354), hiking, baking, traveling, and playing/directing [handbells](/assets/pdf/MathematicsOfBellRinging_2020Talk.pdf).
 
  <hr/>
+ 
 ##### Upcoming Activities<br/> 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2023, [MAA MathFest 2023](https://www.maa.org/meetings/mathfest), Tampa FL<br/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2023, [ICIAM 2023](https://iciam2023.org "ICIAM 2023"), Tokyo JP<br/>
