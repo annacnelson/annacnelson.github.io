@@ -1,13 +1,13 @@
 ---
 layout: about
-title: about
+title: Anna C. Nelson
 permalink: /
 subtitle: William W. Elliott Assistant Research Professor, Department of Mathematics, Duke University
 profile:
   align: right
   image: newheadshot.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  address: 
     <p>Physics 210</p>
     <p>Department of Mathematics Duke University</p>
     <p>anelson@math.duke.edu</p>
