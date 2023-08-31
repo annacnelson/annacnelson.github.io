@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 profile:
   align: left
-  image: teachingphoto.jpg
+  image: 53119044395_a81412251d_o.jpg
   image_circular: false # crops the image to make it circular
   address: 
   
