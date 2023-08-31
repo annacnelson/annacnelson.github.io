@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: teaching
 permalink: /teaching/
 title: teaching
 description:
