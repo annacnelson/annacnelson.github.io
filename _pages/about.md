@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Anna C. Nelson
+title: about
 permalink: /
 subtitle: William W. Elliott Assistant Research Professor, Department of Mathematics, Duke University
 profile:
