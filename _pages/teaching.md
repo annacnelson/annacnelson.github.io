@@ -6,6 +6,11 @@ description:
 nav: true
 nav_order: 5
 ---
+profile:
+  align: left
+  image: newheadshot.jpg
+  image_circular: false # crops the image to make it circular
+  address: 
 
 I have had the opportunity to teach a wide variety of courses at University of Utah and at Duke University. During 2018-2019, I was a University Teaching Assistantship recipient from the Graduate School at Utah to continue a peer mentorship program for graduate students. 
 
