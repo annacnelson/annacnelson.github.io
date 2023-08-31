@@ -5,13 +5,13 @@ title: teaching
 description:
 nav: true
 nav_order: 5
----
 profile:
   align: left
   image: newheadshot.jpg
   image_circular: false # crops the image to make it circular
   address: 
-
+  
+---
 I have had the opportunity to teach a wide variety of courses at University of Utah and at Duke University. During 2018-2019, I was a University Teaching Assistantship recipient from the Graduate School at Utah to continue a peer mentorship program for graduate students. 
 
 I am passionate about teaching pedagogy and training graduate student instructors in teaching best practices. I was involved with the Utah Math Instructor Training Workshop for 3 years, which is an annual workshop that includes practice lectures, workshops on campus-wide resources, and teaching pedagogy workshops.
