@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: William W. Elliott Assistant Research Professor, Department of Mathematics, Duke University
+subtitle: she/her <br> William W. Elliott Assistant Research Professor, Department of Mathematics, Duke University
 profile:
   align: right
   image: newheadshot.jpg
