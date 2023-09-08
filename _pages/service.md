@@ -1,7 +1,7 @@
 ---
 layout: teaching
 permalink: /service/
-title: service
+title: Service
 description:
 nav: true
 nav_order: 5
