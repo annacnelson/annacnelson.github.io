@@ -1,58 +1,23 @@
 ---
-layout: page
-title: projects
-permalink: /projects/
-description: current research projects
-nav: false
-nav_order: 2
-display_categories: [blood clot formation, sex differences in physiology, complex social systems]
-horizontal: false
+layout: teaching
+permalink: /service/
+title: service
+description:
+nav: true
+nav_order: 4
+profile:
+  align: right
+  image: 20221118_mathcircle001b_0.jpg
+  image_circular: false # crops the image to make it circular
+  address: 
+  
 ---
+Throughout my career, have been actively committed to promoting diversity and inclusivity in mathematics through service by building community in my department, in my field, and in my community. 
+<hr/>
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
-
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+### Duke University
+<br/>
+Member of the [Duke Math Diversity, Equity, and Inclusion team](https://math.duke.edu/diversity-equity-and-inclusion)<br/>
+Postdoctoral Assistant and SPIRE Instructor for the [Duke SPIRE Fellows Program](https://spire.duke.edu/our-program)<br/>
+Team mentor in the AWM Mentorship Program organized by the [Duke Student AWM Chapter](https://sites.duke.edu/duke_awm/)<br/>
+Co-PI on [Duke Faculty Advancement seed grant](https://facultyadvancement.duke.edu/thirteen-faculty-led-projects-foster-equitable-communities-departments-and-schools), themed "improving departmental climate and building community"<br/>
