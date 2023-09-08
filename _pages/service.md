@@ -4,7 +4,7 @@ permalink: /service/
 title: service
 description:
 nav: true
-nav_order: 4
+nav_order: 5
 profile:
   align: right
   image: 20221118_mathcircle001b_0.jpg
