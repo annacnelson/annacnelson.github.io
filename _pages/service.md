@@ -38,5 +38,5 @@ Throughout my career, have been actively committed to promoting diversity and in
 * Presenter for [Girls Exploring Math](https://sites.duke.edu/gemproject/) Summer 2023 workshop, titled "Math: We $R_0$ afraid to use it!" <br/>
 * Volunteer for [Defining Your Path Field Trip Program](https://engagement.utah.edu/defining-your-path.php) in Salt Lake City UT<br/>
 * Presenter for [2019 Science Day at the U](https://science.utah.edu/events/science-day-2019/), titled "Computing in Nature: Using DNA to solve math problems!" <br/>
-* Presenter for [Girls Full STEAM Ahead Camp](https://theleonardo.org/leonardo-summer-camp/), Leonardo Museum in Salt Lake City UT, titled "Math: We $R_0$ afraid to use it!" <br/>
+* Presenter for [Girls Full STEAM Ahead Camp](https://theleonardo.org/leonardo-summer-camp/), Leonardo Museum in Salt Lake City UT, titled "Math: We R_0 afraid to use it!" <br/>
 * Judge for [2020 State of Utah Sterling Scholar Award, Mathematics](https://www.deseret.com/utah/2023/3/22/23644135/2023-sterling-scholar-winners-announced-scholarships)
