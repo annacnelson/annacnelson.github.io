@@ -17,7 +17,7 @@ I have had the opportunity to teach a wide variety of courses at University of U
 I am passionate about teaching pedagogy and I am a MAA Project NExT Fellow (Red '22). I am also interested in training graduate student instructors in teaching and involved with the Utah Math Instructor Training Workshop for 3 years, which is an annual workshop that includes practice lectures, workshops on campus-wide resources, and teaching pedagogy workshops.
 <hr/>
 
-### past teaching experience
+### Past teaching experience
 * MATH 577: Mathematical Modeling (Graduate level course) [Spring 2023, Duke]
 * BIO 218/MATH 183: Biological Clocks: How Organisms Keep Time [Fall 2022, Fall 2023, Duke]
 * MATH 75: Being Human in STEM for First Year SPIRE Fellows [Spring 2022, Spring 2023, Duke]
