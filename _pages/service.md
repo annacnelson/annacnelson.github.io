@@ -12,7 +12,7 @@ profile:
   address: 
   
 ---
-Throughout my career, have been actively committed to promoting diversity and inclusivity in mathematics through service by building community in my department, in my field, and in my broader community. 
+Throughout my career, I have been actively committed to promoting diversity and inclusivity in mathematics through service by building community in my department, in my field, and in my broader community. 
 <hr/>
 
 ### Duke University
