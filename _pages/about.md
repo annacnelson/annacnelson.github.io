@@ -34,11 +34,9 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2024, [JMM 2024](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html), San Francisco CA<br/>
  <hr/>
 
-##### Recent Activities<br/>
 <details open>
-<summary></summary>
-<br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2023, [ICIAM 2023](https://iciam2023.org "ICIAM 2023"), Tokyo JP<br/>
+<summary><h4>Recent Activities</h4></summary>
+  August 2023, <a href="https://iciam2023.org">ICIAM 2023</a>, Tokyo JP
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2023, [MAA MathFest 2023](https://www.maa.org/meetings/mathfest), Tampa FL<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 2023, [Society for Mathematical Biology Annual Meeting](https://2023.smb.org "SMB"), Columbus OH <br/>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; June 2023, [AMS MRC on Complex Social Systems](https://www.ams.org/programs/research-communities/2023MRC-SocialSystems), Java Center NY<br/>
