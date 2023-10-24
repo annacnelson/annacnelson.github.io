@@ -28,18 +28,19 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
  
 ##### Upcoming Activities<br/> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 2023, [AWM Research Symposium 2023](https://awm-math.org/meetings/awm-research-symposium/), Clark Atlanta University, Atlanta GA<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2023, [Triangle Computational and Applied Mathematics Symposium 2023](https://services.math.duke.edu/Tricams/index.html), Duke University, Durham NC<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 2023, [UPenn MathBio Seminar](https://www.math.upenn.edu/events/mathematical-models-polymerization-physiology), University of Pennsylvania, Philadelphia PA<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2023, [TriCAMS 2023](https://services.math.duke.edu/Tricams/index.html), Duke University, Durham NC<br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2023, [NC State Biomathematics Seminar](https://math.sciences.ncsu.edu/event/biomathematics-seminar-anna-nelson/), NC State University, Raleigh NC<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2024, [JMM 2024](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html), San Francisco CA<br/>
  <hr/>
 
-
- <summary>#### Recent Activities <strong>Author annotation:</strong></summary>
 ##### Recent Activities<br/>
+<summary</summary>
+<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2023, [SIAM Dynamical Systems 2023](https://www.siam.org/conferences/cm/conference/ds23), Portland OR<br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; June 2023, [AMS MRC on Complex Social Systems](https://www.ams.org/programs/research-communities/2023MRC-SocialSystems), Java Center NY<br/>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 2023, [Society for Mathematical Biology Annual Meeting](https://2023.smb.org "SMB"), Columbus OH <br/>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2023, [MAA MathFest 2023](https://www.maa.org/meetings/mathfest), Tampa FL<br/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2023, [ICIAM 2023](https://iciam2023.org "ICIAM 2023"), Tokyo JP<br/>
-  
-
+</details>
 
