@@ -9,7 +9,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address: 
     <p>Physics 210</p>
-    <p>Department of Mathematics Duke University</p>
+    <p>Department of Mathematics</p>
+    <p>Duke University</p>
     <p>anelson@math.duke.edu</p>
 
 news: false  # includes a list of news items
