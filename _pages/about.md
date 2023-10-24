@@ -34,13 +34,13 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2024, [JMM 2024](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html), San Francisco CA<br/>
  <hr/>
 
-<details open>
+<details close>
 <summary>Recent Activities</summary>
-  August 2023, <a href="https://iciam2023.org">ICIAM 2023</a>, Tokyo JP
-  August 2023, <a href="https://www.maa.org/meetings/mathfest">MAA MathFest 2023 </a>,  Tampa FL
-  July 2023, <a href="https://2023.smb.org">Society for Mathematical Biology Annual Meeting</a>,  Columbus OH
-  June 2023, <a href="https://www.ams.org/programs/research-communities/2023MRC-SocialSystems">AMS MRC on Complex Social Systems</a>, Java Center NY
-May 2023, <a href="https://www.siam.org/conferences/cm/conference/ds23">SIAM Dynamical Systems 2023</a>, Portland OR
-April 2023,<a href="https://www.ams.org/meetings/sectional/2308_progfull.html">AMS Spring Central Sectional Meeting 2023</a>, Portland OR
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2023, <a href="https://iciam2023.org">ICIAM 2023</a>, Tokyo JP<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2023, <a href="https://www.maa.org/meetings/mathfest">MAA MathFest 2023 </a>,  Tampa FL<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 2023, <a href="https://2023.smb.org">Society for Mathematical Biology Annual Meeting</a>,  Columbus OH<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; June 2023, <a href="https://www.ams.org/programs/research-communities/2023MRC-SocialSystems">AMS MRC on Complex Social Systems</a>, Java Center NY<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2023, <a href="https://www.siam.org/conferences/cm/conference/ds23">SIAM Dynamical Systems 2023</a>, Portland OR<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2023,<a href="https://www.ams.org/meetings/sectional/2308_progfull.html">AMS Spring Central Sectional Meeting 2023</a>, Portland OR<br/>
 </details>
 
