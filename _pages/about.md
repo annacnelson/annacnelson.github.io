@@ -28,20 +28,22 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
  <hr/>
  
 ##### Upcoming Activities<br/> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 2023, [AWM Research Symposium 2023](https://awm-math.org/meetings/awm-research-symposium/), Clark Atlanta University, Atlanta GA<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 2023, [UPenn MathBio Seminar](https://www.math.upenn.edu/events/mathematical-models-polymerization-physiology), University of Pennsylvania, Philadelphia PA<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2023, [TriCAMS 2023](https://services.math.duke.edu/Tricams/index.html), Duke University/NC Central University, Durham NC<br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2023, [NC State Biomathematics Seminar](https://math.sciences.ncsu.edu/event/biomathematics-seminar-anna-nelson/), NC State University, Raleigh NC<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2024, [JMM 2024](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html), San Francisco CA<br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2024, [Math For All at Clemson University 2024](https://sites.google.com/view/mathforallnola/satellite-conference/clemson-sc), Clemson SC <br/>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2024, [Biology and Medicine through Mathematics 2024](https://siam.vcu.edu/bamm/), Richmond VA<br/>
  <hr/>
 
 <details close>
-<summary>Recent Activities</summary>
+<summary>Recent Activities</summary>  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2023, <a href="https://math.sciences.ncsu.edu/event/biomathematics-seminar-anna-nelson/">NC State Biomathematics Seminar</a>, Raleigh NC<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2023, <a href="https://services.math.duke.edu/Tricams/index.html">TriCAMs</a>, Durham NC<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 2023, <a href="https://www.math.upenn.edu/events/mathematical-models-polymerization-physiology">UPenn MathBio Seminar</a>, Philadelphia PA<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 2023, <a href="https://awm-math.org/meetings/awm-research-symposium/">AWM Research Symposium 2023</a>, Atlanta GA<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2023, <a href="https://iciam2023.org">ICIAM 2023</a>, Tokyo JP<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2023, <a href="https://www.maa.org/meetings/mathfest">MAA MathFest 2023 </a>,  Tampa FL<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 2023, <a href="https://2023.smb.org">Society for Mathematical Biology Annual Meeting</a>,  Columbus OH<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; June 2023, <a href="https://www.ams.org/programs/research-communities/2023MRC-SocialSystems">AMS MRC on Complex Social Systems</a>, Java Center NY<br/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2023, <a href="https://www.siam.org/conferences/cm/conference/ds23">SIAM Dynamical Systems 2023</a>, Portland OR<br/>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2023,<a href="https://www.ams.org/meetings/sectional/2308_progfull.html">AMS Spring Central Sectional Meeting 2023</a>, Portland OR<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2023,<a href="https://www.ams.org/meetings/sectional/2308_progfull.html">AMS Spring Central Sectional Meeting 2023</a>, Cincinnati OH <br/>
 </details>
 
