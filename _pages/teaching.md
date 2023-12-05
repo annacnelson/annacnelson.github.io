@@ -18,7 +18,7 @@ I am passionate about teaching pedagogy and I am a MAA Project NExT Fellow (Red 
 <hr/>
 
 ### Current and past teaching experience
-* MATH 353: Elementary Differential Equations and Boundary Value Problems [Fall 2021, Spring 2022, Spring 2024, Duke]
+* MATH 353: Ordinary and Partial Differential Equations [Fall 2021, Spring 2022, Spring 2024, Duke]
 * MATH 577: Mathematical Modeling (Graduate level course) [Spring 2023, Duke]
 * BIO 218/MATH 183: Biological Clocks: How Organisms Keep Time [Fall 2022, Fall 2023, Duke]
 * MATH 75: Being Human in STEM for First Year SPIRE Fellows [Spring 2022, Spring 2023, Duke]
