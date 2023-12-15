@@ -14,7 +14,7 @@ profile:
 ---
 I have had the opportunity to teach a wide variety of courses at Duke University and at the University of Utah. During 2018-2019, I was a University Teaching Assistantship recipient from the Graduate School at Utah to continue a peer mentorship program for graduate students. 
 
-I am passionate about teaching pedagogy and I am a MAA Project NExT Fellow (Red '22). I am also interested in training graduate student instructors in teaching and involved with the Utah Math Instructor Training Workshop for 3 years, which is an annual workshop that includes practice lectures, workshops on campus-wide resources, and teaching pedagogy workshops.
+I am passionate about teaching pedagogy and I am a MAA Project NExT Fellow (Red '22). I am also interested in training graduate student instructors in teaching and was involved with the Utah Math Instructor Training Workshop for 3 years, which is an annual workshop that includes practice lectures, workshops on campus-wide resources, and teaching pedagogy workshops.
 <hr/>
 
 ### Current and past teaching experience
