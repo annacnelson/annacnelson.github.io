@@ -28,10 +28,9 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
  <hr/>
  
 ##### Upcoming Activities<br/> 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2024, [JMM 2024](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html), San Francisco CA<br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2024, [Math For All at Clemson University 2024](https://sites.google.com/view/mathforallnola/satellite-conference/clemson-sc), Clemson SC <br/>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2024, [Biology and Medicine through Mathematics 2024](https://siam.vcu.edu/bamm/), Richmond VA<br/>
- <hr/>
+* January 2024, [JMM 2024](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html), San Francisco CA
+* April 2024, [Math For All at Clemson University 2024](https://sites.google.com/view/mathforallnola/satellite-conference/clemson-sc), Clemson SC 
+* May 2024, [Biology and Medicine through Mathematics 2024](https://siam.vcu.edu/bamm/), Richmond VA
 
 <details close>
 <summary>Recent Activities</summary>  
