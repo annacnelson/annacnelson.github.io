@@ -30,7 +30,8 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
 ##### Upcoming Activities<br/> 
 * January 2024, Invited talk, [JMM 2024](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html), San Francisco CA
 * March 2024, Seminar talk, [VCU Biomath Seminar](https://sites.google.com/vcu.edu/biomath-seminar/), Richmond VA
-* April 2024, Plenary speaker, [Math For All at Clemson University 2024](https://sites.google.com/view/mathforallnola/satellite-conference/clemson-sc), Clemson SC 
+* April 2024, Plenary speaker, [Math For All at Clemson University 2024](https://sites.google.com/view/mathforallnola/satellite-conference/clemson-sc), Clemson SC
+* * April 2024, Seminar speaker, [UNC Chapel Hill Applied Mathematics Colloquium](https://math.unc.edu/event/applied-mathematics-colloquium-anna-c-nelson-duke/), Chapel Hill, NC 
 * May 2024, [Biology and Medicine through Mathematics 2024](https://siam.vcu.edu/bamm/), Richmond VA
 
 <details close>
