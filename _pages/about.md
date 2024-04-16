@@ -8,10 +8,6 @@ profile:
   image: newheadshot.jpg
   image_circular: false # crops the image to make it circular
   address: 
-    <p>210 Physics Bldg</p>
-    <p>Department of Mathematics</p>
-    <p>Duke University</p>
-    <p>anelson@math.duke.edu</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
