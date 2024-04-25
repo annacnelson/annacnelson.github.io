@@ -24,14 +24,15 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
  <hr/>
  
 ##### Upcoming Activities<br/> 
-* January 2024, Invited talk, [JMM 2024](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html), San Francisco CA
-* March 2024, Seminar talk, [VCU Biomath Seminar](https://sites.google.com/vcu.edu/biomath-seminar/), Richmond VA
-* April 2024, Plenary speaker, [Math For All at Clemson University 2024](https://sites.google.com/view/mathforallnola/satellite-conference/clemson-sc), Clemson SC
-* April 2024, Seminar speaker, [UNC Chapel Hill Applied Mathematics Colloquium](https://math.unc.edu/event/applied-mathematics-colloquium-anna-c-nelson-duke/), Chapel Hill, NC 
 * May 2024, [Biology and Medicine through Mathematics 2024](https://siam.vcu.edu/bamm/), Richmond VA
+* July 2024, [SIAM Annual Meeting 2024](https://www.siam.org/conferences/cm/conference/an24), Spokane WA
 
 <details close>
-<summary>Recent Activities</summary>  
+<summary>Recent Activities</summary> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2024, <a href="https://math.unc.edu/event/applied-mathematics-colloquium-anna-c-nelson-duke/">UNC Applied Mathematics Colloquium</a>, Chapel Hill, NC<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2024, <a href="https://sites.google.com/view/mathforallnola/satellite-conference/clemson-sc">Plenary speaker, Math For All</a>, Clemson SC<br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; March 2024, <a href="https://sites.google.com/vcu.edu/biomath-seminar/">VCU Biomath Seminar</a>, Richmond, VA<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2024, <a href="https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html">Joint Mathematics Meeting</a>, San Francisco, CA<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2023, <a href="https://math.sciences.ncsu.edu/event/biomathematics-seminar-anna-nelson/">NC State Biomathematics Seminar</a>, Raleigh NC<br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2023, <a href="https://services.math.duke.edu/Tricams/index.html">TriCAMs</a>, Durham NC<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 2023, <a href="https://www.math.upenn.edu/events/mathematical-models-polymerization-physiology">UPenn MathBio Seminar</a>, Philadelphia PA<br/>
