@@ -26,6 +26,7 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
 ##### Upcoming Activities<br/> 
 * May 2024, [Biology and Medicine through Mathematics 2024](https://siam.vcu.edu/bamm/), Richmond VA
 * July 2024, [SIAM Annual Meeting 2024](https://www.siam.org/conferences/cm/conference/an24), Spokane WA
+* October 2024 [AIM SQuaRE for collaboration](https://aimath.org/programs/squares/), Pasadena CA
 
 <details close>
 <summary>Recent Activities</summary> 
