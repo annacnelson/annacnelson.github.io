@@ -16,17 +16,17 @@ Throughout my career, I have been actively committed to promoting diversity and 
 <hr/>
 
 #### Duke University
-* Member of the [Duke Math Diversity, Equity, and Inclusion team](https://math.duke.edu/diversity-equity-and-inclusion)<br/>
-* Postdoctoral Assistant and SPIRE Instructor for the [Duke SPIRE Fellows Program](https://spire.duke.edu/our-program)<br/>
+* Member of the [Duke Math Diversity, Equity, and Inclusion team](https://math.duke.edu/diversity-equity-and-inclusion) (2022--2024)<br/>
+* Postdoctoral Assistant and SPIRE Instructor for the [Duke SPIRE Fellows Program](https://spire.duke.edu/our-program) (2021--2023)<br/>
 * Team mentor in the AWM Mentorship Program organized by the [Duke Student AWM Chapter](https://sites.duke.edu/duke_awm/)<br/>
-* Co-PI on [Duke Faculty Advancement seed grant](https://facultyadvancement.duke.edu/thirteen-faculty-led-projects-foster-equitable-communities-departments-and-schools), themed "improving departmental climate and building community"<br/>
+* Co-PI on [Duke Faculty Advancement seed grant](https://facultyadvancement.duke.edu/thirteen-faculty-led-projects-foster-equitable-communities-departments-and-schools), themed "improving departmental climate and building community" (2022--2023)<br/>
 <hr/>
 
 #### University of Utah 
-* Vice President (2019-2020) of the [Utah AWM Student Chapter](https://www.math.utah.edu/awmchapter/), winner of the 2020 AWM Student Chapter Award for Scientific Excellence
-* Co-organizer of the [Utah AWM Student Chapter Speaker Series](https://www.math.utah.edu/awmchapter/speakerseries.php) (2020-2021)<br/>
-* Organizer of the [Fluids research seminar](https://www.math.utah.edu/research/mathbio/groups/gels/index.html) (2020-2021)<br/>
-* Co-chair of the Professional Development Committee of the [Utah Math Graduate Student Advisory Committee](https://www.math.utah.edu/gsac/) (2019-2021) <br/>
+* Vice President of the [Utah AWM Student Chapter](https://www.math.utah.edu/awmchapter/), winner of the 2020 AWM Student Chapter Award for Scientific Excellence (2019--2020)
+* Co-organizer of the [Utah AWM Student Chapter Speaker Series](https://www.math.utah.edu/awmchapter/speakerseries.php) (2020--2021)<br/>
+* Organizer of the [Fluids research seminar](https://www.math.utah.edu/research/mathbio/groups/gels/index.html) (2020--2021)<br/>
+* Co-chair of the Professional Development Committee of the [Utah Math Graduate Student Advisory Committee](https://www.math.utah.edu/gsac/) (2019--2021) <br/>
 * Presenter in the [Utah Math Graduate Student Colloquium](https://www.math.utah.edu/gsac/colloq_past/) (2015, 2017, 2020)
 <hr/>
 
