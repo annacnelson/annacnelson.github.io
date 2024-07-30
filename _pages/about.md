@@ -24,14 +24,16 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
  <hr/>
  
 ##### Upcoming Activities<br/> 
-* May 2024, [Biology and Medicine through Mathematics 2024](https://siam.vcu.edu/bamm/), Richmond VA
-* July 2024, [SIAM Annual Meeting 2024](https://www.siam.org/conferences/cm/conference/an24), Spokane WA
-* October 2024, [AIM SQuaRE for research collaboration](https://aimath.org/programs/squares/), Pasadena CA
+* October 2024, [AIM SQuaRE for research collaboration](https://aimath.org/programs/squares/), Pasadena, CA
+* January 2025, [Joint Mathematics Meeting](https://jointmathematicsmeetings.org/jmm), Seattle, WA
+* March 2025, [AMS Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2324_program.html), Clemson, SC
 
 <details close>
 <summary>Recent Activities</summary> 
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 2024, <a href="https://www.siam.org/conferences/cm/conference/an24">SIAM Annual Meeting 2024</a>, Spokane, WA<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2024, <a href="https://siam.vcu.edu/bamm/">Biology and Medicine through Mathematics</a>, Richmond, VA<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2024, <a href="https://math.unc.edu/event/applied-mathematics-colloquium-anna-c-nelson-duke/">UNC Applied Mathematics Colloquium</a>, Chapel Hill, NC<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2024, <a href="https://sites.google.com/view/mathforallnola/satellite-conference/clemson-sc">Plenary speaker, Math For All</a>, Clemson SC<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2024, <a href="https://sites.google.com/view/mathforallnola/satellite-conference/clemson-sc">Plenary speaker, Math For All</a>, Clemson, SC<br/>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; March 2024, <a href="https://sites.google.com/vcu.edu/biomath-seminar/">VCU Biomath Seminar</a>, Richmond, VA<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2024, <a href="https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html">Joint Mathematics Meeting</a>, San Francisco, CA<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2023, <a href="https://math.sciences.ncsu.edu/event/biomathematics-seminar-anna-nelson/">NC State Biomathematics Seminar</a>, Raleigh NC<br/>
