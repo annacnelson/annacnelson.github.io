@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: she/her <br> William W. Elliott Assistant Research Professor
+subtitle: she/her <br> Phillip Griffiths Assistant Research Professor
 profile:
   align: right
   image: newheadshot.jpg
