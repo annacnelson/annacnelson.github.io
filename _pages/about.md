@@ -24,27 +24,28 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
  <hr/>
  
 ##### Upcoming Activities<br/> 
-* October 2024, [AIM SQuaRE for research collaboration](https://aimath.org/programs/squares/), Pasadena, CA
-* January 2025, [Joint Mathematics Meeting](https://jointmathematicsmeetings.org/jmm), Seattle, WA
-* March 2025, [AMS Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2324_program.html), Clemson, SC
+* October 2024, Participant, [AIM SQuaRE for research collaboration](https://aimath.org/programs/squares/), Pasadena, CA
+* November 2024, Invited participant [NITMB Workshop on Random Dynamical Systems, with applications in biology](https://www.nitmb.org/random-dynamical-systems), Chicago, IL
+* January 2025, Co-organizer and speaker, [Joint Mathematics Meeting](https://jointmathematicsmeetings.org/jmm), Seattle, WA
+* March 2025, Invited speaker, [AMS Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2324_program.html), Clemson, SC
 
 <details close>
 <summary>Recent Activities</summary> 
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 2024, <a href="https://www.siam.org/conferences/cm/conference/an24">SIAM Annual Meeting 2024</a>, Spokane, WA<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2024, <a href="https://siam.vcu.edu/bamm/">Biology and Medicine through Mathematics</a>, Richmond, VA<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2024, <a href="https://math.unc.edu/event/applied-mathematics-colloquium-anna-c-nelson-duke/">UNC Applied Mathematics Colloquium</a>, Chapel Hill, NC<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2024, <a href="https://sites.google.com/view/mathforallnola/satellite-conference/clemson-sc">Plenary speaker, Math For All</a>, Clemson, SC<br/>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; March 2024, <a href="https://sites.google.com/vcu.edu/biomath-seminar/">VCU Biomath Seminar</a>, Richmond, VA<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2024, <a href="https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html">Joint Mathematics Meeting</a>, San Francisco, CA<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2023, <a href="https://math.sciences.ncsu.edu/event/biomathematics-seminar-anna-nelson/">NC State Biomathematics Seminar</a>, Raleigh NC<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2023, <a href="https://services.math.duke.edu/Tricams/index.html">TriCAMs</a>, Durham NC<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 2023, <a href="https://www.math.upenn.edu/events/mathematical-models-polymerization-physiology">UPenn MathBio Seminar</a>, Philadelphia PA<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 2023, <a href="https://awm-math.org/meetings/awm-research-symposium/">AWM Research Symposium 2023</a>, Atlanta GA<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2023, <a href="https://iciam2023.org">ICIAM 2023</a>, Tokyo JP<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2023, <a href="https://www.maa.org/meetings/mathfest">MAA MathFest 2023 </a>,  Tampa FL<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 2023, <a href="https://2023.smb.org">Society for Mathematical Biology Annual Meeting</a>,  Columbus OH<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; June 2023, <a href="https://www.ams.org/programs/research-communities/2023MRC-SocialSystems">AMS MRC on Complex Social Systems</a>, Java Center NY<br/>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2023, <a href="https://www.siam.org/conferences/cm/conference/ds23">SIAM Dynamical Systems 2023</a>, Portland OR<br/>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2023,<a href="https://www.ams.org/meetings/sectional/2308_progfull.html">AMS Spring Central Sectional Meeting 2023</a>, Cincinnati OH <br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 2024, Co-organizer and invited speaker, <a href="https://www.siam.org/conferences/cm/conference/an24">SIAM Annual Meeting 2024</a>, Spokane, WA<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2024, Invited speaker, <a href="https://siam.vcu.edu/bamm/">Biology and Medicine through Mathematics</a>, Richmond, VA<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2024, Invited speaker, <a href="https://math.unc.edu/event/applied-mathematics-colloquium-anna-c-nelson-duke/">UNC Applied Mathematics Colloquium</a>, Chapel Hill, NC<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2024, Plenary speaker, <a href="https://sites.google.com/view/mathforallnola/satellite-conference/clemson-sc">Plenary speaker, Math For All</a>, Clemson, SC<br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; March 2024, Invited speaker, <a href="https://sites.google.com/vcu.edu/biomath-seminar/">VCU Biomath Seminar</a>, Richmond, VA<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2024, Invited speaker, <a href="https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html">Joint Mathematics Meeting</a>, San Francisco, CA<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2023, Invited speaker, <a href="https://math.sciences.ncsu.edu/event/biomathematics-seminar-anna-nelson/">NC State Biomathematics Seminar</a>, Raleigh NC<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2023, Poster presenter, <a href="https://services.math.duke.edu/Tricams/index.html">TriCAMs</a>, Durham NC<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 2023, Invited speaker, <a href="https://www.math.upenn.edu/events/mathematical-models-polymerization-physiology">UPenn MathBio Seminar</a>, Philadelphia PA<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 2023, Co-organizer and invited speaker, <a href="https://awm-math.org/meetings/awm-research-symposium/">AWM Research Symposium 2023</a>, Atlanta GA<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2023, Co-organizer and invited speaker, <a href="https://iciam2023.org">ICIAM 2023</a>, Tokyo JP<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2023, Co-organizer and invited speaker, <a href="https://www.maa.org/meetings/mathfest">MAA MathFest 2023 </a>,  Tampa FL<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 2023, Invited speaker, <a href="https://2023.smb.org">Society for Mathematical Biology Annual Meeting</a>,  Columbus OH<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; June 2023, Invited participant, <a href="https://www.ams.org/programs/research-communities/2023MRC-SocialSystems">AMS MRC on Complex Social Systems</a>, Java Center NY<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2023, Contributed speaker, <a href="https://www.siam.org/conferences/cm/conference/ds23">SIAM Dynamical Systems 2023</a>, Portland OR<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2023, Invited speaker, <a href="https://www.ams.org/meetings/sectional/2308_progfull.html">AMS Spring Central Sectional Meeting 2023</a>, Cincinnati OH <br/>
 </details>
 
