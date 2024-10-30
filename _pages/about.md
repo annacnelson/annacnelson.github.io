@@ -27,6 +27,7 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
 * October 2024, Participant, [AIM SQuaRE for research collaboration](https://aimath.org/programs/squares/), Pasadena, CA
 * November 2024, Invited participant [NITMB Workshop on Random Dynamical Systems, with applications in biology](https://www.nitmb.org/random-dynamical-systems), Chicago, IL
 * January 2025, Co-organizer and speaker, [Joint Mathematics Meeting](https://jointmathematicsmeetings.org/jmm), Seattle, WA
+* January 2025, Invited participant, [ICERM Workshop on Patterns, Dynamics, and Data in Complex Systems](https://icerm.brown.edu/program/topical_workshop/tw-25-pddcs), Providence, RI
 * March 2025, Invited speaker, [AMS Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2324_program.html), Clemson, SC
 * May 2025, Invited speaker, [SIAM Conference on Applications of Dynamical Systems](https://www.siam.org/conferences-events/siam-conferences/ds25/), Denver, CO
 * July 2025, Organizer, [Joint SIAM/CAIMS Annual Meeting](https://www.siam.org/conferences-events/siam-conferences/an25/), Montréal, QC
