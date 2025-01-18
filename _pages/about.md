@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: she/her <br> Phillip Griffiths Assistant Research Professor
+subtitle: she/her <br> Assistant Professor of Mathematics <br> Department of Mathematics & Statistics <br> University of New Mexico
 profile:
   align: right
   image: newheadshot.jpg
@@ -15,17 +15,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My field of research is mathematical biology, and I am primarily interested in simulating, modeling, and analyzing mechanistic mathematical models of neurological and physiological phenomena. In particular, I develop and use tools in dynamical systems, statistical physics, and stochastic processes to understand how polymerization impacts physiological processes like blood clot formation and neuronal injury. I am a Phillip Griffiths Assistant Research Professor in the [Department of Mathematics](https://math.duke.edu/ "Department of Mathematics") at Duke University, where I am working with [Veronica Ciocanel](https://services.math.duke.edu/~ciocanel/ "Veronica Ciocanel").
+My field of research is mathematical biology, and I am primarily interested in simulating, modeling, and analyzing mechanistic mathematical models of neurological and physiological phenomena. In particular, I develop and use tools in dynamical systems, statistical physics, and stochastic processes to understand how polymerization impacts physiological processes like blood clot formation and neuronal injury. I am an Assistant Professor of Mathematics in the [Department of Mathematics & Statistics](https://math.unm.edu) at the University of New Mexico. 
 
-Prior to Duke, I completed my Ph.D. in mathematics in the [Department of Mathematics](https://math.utah.edu "Department of Mathematics") at the University of Utah under the supervision of [Aaron L. Fogelson](https://math.utah.edu/~fogelson "Aaron L. Fogelson" ). 
+Prior to UNM, I was a Phillip Griffiths and William W. Elliott Assistant Research Professor in the [Department of Mathematics](https://math.duke.edu/ "Department of Mathematics") at Duke University, where I am working with [Veronica Ciocanel](https://services.math.duke.edu/~ciocanel/ "Veronica Ciocanel"). I completed my Ph.D. in mathematics in the [Department of Mathematics](https://math.utah.edu "Department of Mathematics") at the University of Utah under the supervision of [Aaron L. Fogelson](https://math.utah.edu/~fogelson "Aaron L. Fogelson" ). 
 
 Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354), hiking, baking, traveling, and playing/directing [handbells](/assets/pdf/MathematicsOfBellRinging_2020Talk.pdf).
 
  <hr/>
  
 ##### Upcoming Activities<br/> 
-* October 2024, Participant, [AIM SQuaRE for research collaboration](https://aimath.org/programs/squares/), Pasadena, CA
-* November 2024, Invited participant [NITMB Workshop on Random Dynamical Systems, with applications in biology](https://www.nitmb.org/random-dynamical-systems), Chicago, IL
 * January 2025, Co-organizer and speaker, [Joint Mathematics Meeting](https://jointmathematicsmeetings.org/jmm), Seattle, WA
 * January 2025, Invited participant, [ICERM Workshop on Patterns, Dynamics, and Data in Complex Systems](https://icerm.brown.edu/program/topical_workshop/tw-25-pddcs), Providence, RI
 * March 2025, Invited speaker, [AMS Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2324_program.html), Clemson, SC
@@ -34,6 +32,8 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
 
 <details close>
 <summary>Recent Activities</summary> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2024, Invited participant (<a href = "https://www.nitmb.org/random-dynamical-systems">NITMB Workshop on Random Dynamical Systems, with applications in biology</a>, Chicago, IL<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  October 2024, Participant, <a href = "https://aimath.org/programs/squares/">AIM SQuaRE for research collaboration</a>), Pasadena, CA <br/>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 2024, Co-organizer and invited speaker, <a href="https://www.siam.org/conferences/cm/conference/an24">SIAM Annual Meeting 2024</a>, Spokane, WA<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2024, Invited speaker, <a href="https://siam.vcu.edu/bamm/">Biology and Medicine through Mathematics</a>, Richmond, VA<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2024, Invited speaker, <a href="https://math.unc.edu/event/applied-mathematics-colloquium-anna-c-nelson-duke/">UNC Applied Mathematics Colloquium</a>, Chapel Hill, NC<br/>
