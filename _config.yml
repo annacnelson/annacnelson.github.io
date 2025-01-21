@@ -6,7 +6,7 @@ title: Anna C. Nelson # the website title (if blank, full name will be used inst
 first_name: Anna
 middle_name: C.
 last_name: Nelson
-email: annanelson@unm.edu
+email: "annanelson@unm.edu"
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
