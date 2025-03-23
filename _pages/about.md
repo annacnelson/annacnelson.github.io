@@ -24,15 +24,16 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
  <hr/>
  
 ##### Upcoming Activities<br/> 
-* January 2025, Co-organizer and speaker, [Joint Mathematics Meeting](https://jointmathematicsmeetings.org/jmm), Seattle, WA
-* January 2025, Invited participant, [ICERM Workshop on Patterns, Dynamics, and Data in Complex Systems](https://icerm.brown.edu/program/topical_workshop/tw-25-pddcs), Providence, RI
 * March 2025, Invited speaker, [AMS Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2324_program.html), Clemson, SC
 * May 2025, Invited speaker, [SIAM Conference on Applications of Dynamical Systems](https://www.siam.org/conferences-events/siam-conferences/ds25/), Denver, CO
-* July 2025, Organizer, [Joint SIAM/CAIMS Annual Meeting](https://www.siam.org/conferences-events/siam-conferences/an25/), Montréal, QC
+* July 2025, Organizer and speaker, [SMB Annual Meeting](https://2025.smb.org), Edmonton, AB
+* August 2025, Organizer and speaker, [Joint SIAM/CAIMS Annual Meeting](https://www.siam.org/conferences-events/siam-conferences/an25/), Montréal, QC
 
 <details close>
 <summary>Recent Activities</summary> 
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2024, Invited participant (<a href = "https://www.nitmb.org/random-dynamical-systems">NITMB Workshop on Random Dynamical Systems, with applications in biology</a>, Chicago, IL<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2025, Invited participant (<a href = "https://icerm.brown.edu/program/topical_workshop/tw-25-pddcs">ICERM Workshop on Patterns, Dynamics, and Data in Complex Systems</a>, Providence, RI<br/>    
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2025, Co-organizer and speaker (<a href = "https://jointmathematicsmeetings.org/jmm">Joint Mathematics Meetingy</a>, Seattle, WA<br/>    
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2024, Invited participant (<a href = "https://www.nitmb.org/random-dynamical-systems">NITMB Workshop on Random Dynamical Systems, with applications in biology</a>, Chicago, IL<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  October 2024, Participant, <a href = "https://aimath.org/programs/squares/">AIM SQuaRE for research collaboration</a>), Pasadena, CA <br/>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 2024, Co-organizer and invited speaker, <a href="https://www.siam.org/conferences/cm/conference/an24">SIAM Annual Meeting 2024</a>, Spokane, WA<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2024, Invited speaker, <a href="https://siam.vcu.edu/bamm/">Biology and Medicine through Mathematics</a>, Richmond, VA<br/>
