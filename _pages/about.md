@@ -25,7 +25,7 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
  
 ##### Upcoming Activities<br/> 
 * March 2025, Invited speaker, [AMS Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2324_program.html), Clemson, SC
-* April 2025, Invited speake, [Montana State University Applied Math Seminar](https://www.montana.edu/calendar/events/53720), Bozeman, MT
+* April 2025, Invited speaker, [Montana State University Applied Math Seminar](https://www.montana.edu/calendar/events/53720), Bozeman, MT
 * May 2025, Invited speaker, [SIAM Conference on Applications of Dynamical Systems](https://www.siam.org/conferences-events/siam-conferences/ds25/), Denver, CO
 * July 2025, Organizer and speaker, [SMB Annual Meeting](https://2025.smb.org), Edmonton, AB
 * August 2025, Organizer and speaker, [Joint SIAM/CAIMS Annual Meeting](https://www.siam.org/conferences-events/siam-conferences/an25/), Montréal, QC
