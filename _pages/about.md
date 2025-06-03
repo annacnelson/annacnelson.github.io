@@ -24,8 +24,8 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
  <hr/>
  
 ##### Upcoming Activities<br/> 
-* July 2025, Organizer and speaker, [SMB Annual Meeting](https://2025.smb.org), Edmonton, AB
-* August 2025, Organizer and speaker, [Joint SIAM/CAIMS Annual Meeting](https://www.siam.org/conferences-events/siam-conferences/an25/), Montréal, QC
+* July 2025, Organizer and contributed speaker, [SMB Annual Meeting](https://2025.smb.org), Edmonton, AB
+* August 2025, Organizer and invited speaker, [Joint SIAM/CAIMS Annual Meeting](https://www.siam.org/conferences-events/siam-conferences/an25/), Montréal, QC
 * October 2025, Participant, [AIM SQuaRE for reasearch collaboration](https://aimath.org/programs/squares/), Pasadena, CA
 
 <details close>
