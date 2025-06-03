@@ -24,14 +24,15 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
  <hr/>
  
 ##### Upcoming Activities<br/> 
-* March 2025, Invited speaker, [AMS Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2324_program.html), Clemson, SC
-* April 2025, Invited speaker, [Montana State University Applied Math Seminar](https://www.montana.edu/calendar/events/53720), Bozeman, MT
-* May 2025, Invited speaker, [SIAM Conference on Applications of Dynamical Systems](https://www.siam.org/conferences-events/siam-conferences/ds25/), Denver, CO
 * July 2025, Organizer and speaker, [SMB Annual Meeting](https://2025.smb.org), Edmonton, AB
 * August 2025, Organizer and speaker, [Joint SIAM/CAIMS Annual Meeting](https://www.siam.org/conferences-events/siam-conferences/an25/), Montréal, QC
+* October 2025, Participant, [AIM SQuaRE for reasearch collaboration](https://aimath.org/programs/squares/), Pasadena, CA
 
 <details close>
 <summary>Recent Activities</summary> 
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2025, Invited speaker (<a href = "https://www.siam.org/conferences-events/siam-conferences/ds25/">SIAM Conference on Applications of Dynamical Systems</a>, Denver, CO<br/>   
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2025, Invited speaker (<a href = "https://www.montana.edu/calendar/events/53720">Montana State University Applied Math Seminar</a>, Bozeman, MT<br/>      
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; March 2025, Invited speaker (<a href = "https://www.ams.org/meetings/sectional/2324_program.html">AMS Spring Southereastern Sectional Meeting</a>, Clemson, SC<br/>    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2025, Invited participant (<a href = "https://icerm.brown.edu/program/topical_workshop/tw-25-pddcs">ICERM Workshop on Patterns, Dynamics, and Data in Complex Systems</a>, Providence, RI<br/>    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2025, Co-organizer and speaker (<a href = "https://jointmathematicsmeetings.org/jmm">Joint Mathematics Meetingy</a>, Seattle, WA<br/>    
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2024, Invited participant (<a href = "https://www.nitmb.org/random-dynamical-systems">NITMB Workshop on Random Dynamical Systems, with applications in biology</a>, Chicago, IL<br/>
