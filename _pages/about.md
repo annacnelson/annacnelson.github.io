@@ -24,15 +24,18 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
  <hr/>
  
 ##### Upcoming Activities<br/> 
-* July 2025, Organizer and contributed speaker, [SMB Annual Meeting](https://2025.smb.org), Edmonton, AB
-* August 2025, Organizer and invited speaker, [Joint SIAM/CAIMS Annual Meeting](https://www.siam.org/conferences-events/siam-conferences/an25/), Montréal, QC
-* October 2025, Participant, [AIM SQuaRE for reasearch collaboration](https://aimath.org/programs/squares/), Pasadena, CA
+* November 2025, Invited speaker, [NITMB Workshop on Machine Learning of Cytoskeletal Machines](https://www.nitmb.org/cytoskeletal-machines-workshop), Chicago, IL
+* December 2025, Minisymposium organizer, [Cell Bio 2025](https://www.ascb.org/cellbio2025/), Philadelphia, PA
+* March 2026, Special session organizer and speaker, [AMS Spring Western Sectional Meeting](https://www.ams.org/meetings/sectional/2327_program.html), Boise, ID
+* November 2026, Participant, [AIM SQuaRE for reasearch collaboration](https://aimath.org/programs/squares/), Pasadena, CA
 
 <details close>
 <summary>Recent Activities</summary> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2025, Organizer and invited speaker, <a href = "https://www.siam.org/conferences-events/siam-conferences/an25/">Joint SIAM/CAIMS Annual Meeting</a>, Montréal, QC<br/>  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 2025, Organizer and contributed speaker, <a href = "https://2025.smb.org">SMB Annual Meeting</a>, Edmonton, AB<br/>  
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2025, Invited speaker, <a href = "https://www.siam.org/conferences-events/siam-conferences/ds25/">SIAM Conference on Applications of Dynamical Systems</a>, Denver, CO<br/>   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2025, Invited speaker, <a href = "https://www.montana.edu/calendar/events/53720">Montana State University Applied Math Seminar</a>, Bozeman, MT<br/>      
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; March 2025, Invited speaker, <a href = "https://www.ams.org/meetings/sectional/2324_program.html">AMS Spring Southereastern Sectional Meeting</a>, Clemson, SC<br/>    
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; March 2025, Invited speaker, <a href = "https://www.ams.org/meetings/sectional/2324_program.html">AMS Spring Southeastern Sectional Meeting</a>, Clemson, SC<br/>    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2025, Invited participant <a href = "https://icerm.brown.edu/program/topical_workshop/tw-25-pddcs">ICERM Workshop on Patterns, Dynamics, and Data in Complex Systems</a>, Providence, RI<br/>    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2025, Co-organizer and invited speaker, <a href = "https://jointmathematicsmeetings.org/jmm">Joint Mathematics Meeting</a>, Seattle, WA<br/>    
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2024, Invited participant, <a href = "https://www.nitmb.org/random-dynamical-systems">NITMB Workshop on Random Dynamical Systems, with applications in biology</a>, Chicago, IL<br/>
