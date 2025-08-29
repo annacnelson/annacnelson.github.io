@@ -26,6 +26,7 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
 ##### Upcoming Activities<br/> 
 * November 2025, Invited speaker, [NITMB Workshop on Machine Learning of Cytoskeletal Machines](https://www.nitmb.org/cytoskeletal-machines-workshop), Chicago, IL
 * December 2025, Minisymposium organizer, [Cell Bio 2025](https://www.ascb.org/cellbio2025/), Philadelphia, PA
+* January 2026, Invited speaker, [JMM 2026](https://jointmathematicsmeetings.org/jmm), Washington, D.C
 * March 2026, Special session organizer and speaker, [AMS Spring Western Sectional Meeting](https://www.ams.org/meetings/sectional/2327_program.html), Boise, ID
 * November 2026, Participant, [AIM SQuaRE for reasearch collaboration](https://aimath.org/programs/squares/), Pasadena, CA
 
