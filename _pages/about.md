@@ -29,7 +29,8 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
 * December 2025, Invited speaker, [Bryn Mawr and Haveford College Math Colloquium](https://www.brynmawr.edu/inside/academic-information/departments-programs/mathematics/seminars-colloquia-conferences/bi-co-math-colloquium), Bryn Mawr, PA
 * January 2026, Invited speaker, [JMM 2026](https://jointmathematicsmeetings.org/jmm), Washington, D.C
 * March 2026, Special session organizer and speaker, [AMS Spring Western Sectional Meeting](https://www.ams.org/meetings/sectional/2327_program.html), Boise, ID
-* November 2026, Participant, [AIM SQuaRE for reasearch collaboration](https://aimath.org/programs/squares/), Pasadena, CA
+* June 2026, Invited participant [NITMB Workshop on Extreme Events in Biological Functions](https://www.nitmb.org/extreme-events-workshop), Chicago, IL
+* November 2026, Participant, [AIM SQuaRE for research collaboration](https://aimath.org/programs/squares/), Pasadena, CA
 
 <details close>
 <summary>Recent Activities</summary> 
