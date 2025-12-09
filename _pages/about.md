@@ -25,7 +25,7 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
  
 ##### Upcoming Activities<br/> 
 * December 2025, Minisymposium organizer and speaker, [Cell Bio 2025](https://www.ascb.org/cellbio2025/), Philadelphia, PA
-* December 2025, Invited speaker, [Bryn Mawr and Haveford College Math Colloquium](https://www.brynmawr.edu/inside/academic-information/departments-programs/mathematics/seminars-colloquia-conferences/bi-co-math-colloquium), Bryn Mawr, PA
+* December 2025, Invited speaker, [Bryn Mawr and Haverford College Math Colloquium](https://www.brynmawr.edu/inside/academic-information/departments-programs/mathematics/seminars-colloquia-conferences/bi-co-math-colloquium), Bryn Mawr, PA
 * January 2026, Invited speaker, [JMM 2026](https://jointmathematicsmeetings.org/jmm), Washington, D.C
 * March 2026, Special session organizer and speaker, [AMS Spring Western Sectional Meeting](https://www.ams.org/meetings/sectional/2327_program.html), Boise, ID
 * June 2026, Invited participant [NITMB Workshop on Extreme Events in Biological Functions](https://www.nitmb.org/extreme-events-workshop), Chicago, IL
