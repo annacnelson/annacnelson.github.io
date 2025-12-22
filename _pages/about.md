@@ -32,8 +32,6 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
 * April 2026, Invited speaker, [Notre Dame ACMS Applied Math Seminar](https://acms.nd.edu/events/), Notre Dame, IN
 * May 2026, Invited speaker, [Cal Poly Mathematics Colloquium](https://math.calpoly.edu/colloquium-and-seminar-schedules), San Luis Osbispo, CA
 * June 2026, Invited participant [NITMB Workshop on Extreme Events in Biological Functions](https://www.nitmb.org/extreme-events-workshop), Chicago, IL
-<!--* July 2026, Minisymposium organizer, [SIAM Life Sciences 2026](https://www.siam.org/conferences-events/siam-conferences/ls26/), Cleveland, OH
-* July 2026, Minisymposium organizer, [SMB/ESMTB 2026](https://ecmtb2026.org), Graz, AUST-->
 * November 2026, Participant, [AIM SQuaRE for research collaboration](https://aimath.org/programs/squares/), Pasadena, CA
 
 <details close>
