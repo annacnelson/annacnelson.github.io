@@ -34,8 +34,8 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
 
 <details close>
 <summary>Recent Activities</summary> 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; December 2025, Minisymposium organizer and speaker, <a href="https://www.ascb.org/cellbio2025/">Cell Bio 2025</a>, Philadelphia, PA
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; December 2025, Invited speaker,<a href = "https://www.brynmawr.edu/inside/academic-information/departments-programs/mathematics/seminars-colloquia-conferences/bi-co-math-colloquium">Bryn Mawr and Haverford College Math Colloquium</a>, Bryn Mawr, PA
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; December 2025, Minisymposium organizer and speaker, <a href="https://www.ascb.org/cellbio2025/">Cell Bio 2025</a>, Philadelphia, PA <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; December 2025, Invited speaker,<a href = "https://www.brynmawr.edu/inside/academic-information/departments-programs/mathematics/seminars-colloquia-conferences/bi-co-math-colloquium">Bryn Mawr and Haverford College Math Colloquium</a>, Bryn Mawr, PA  <br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2025, Invited speaker, <a href = "https://www.nitmb.org/cytoskeletal-machines-workshop">NITMB Workshop on Machine Learning of Cytoskeletal Machines</a>, Chicago, IL <br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2025, Organizer and invited speaker, <a href = "https://www.siam.org/conferences-events/siam-conferences/an25/">Joint SIAM/CAIMS Annual Meeting</a>, Montréal, QC<br/>  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 2025, Organizer and contributed speaker, <a href = "https://2025.smb.org">SMB Annual Meeting</a>, Edmonton, AB<br/>  
