@@ -24,8 +24,6 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
  <hr/>
  
 ##### Upcoming Activities<br/> 
-* March 2026, Special session organizer and speaker, [AMS Spring Western Sectional Meeting](https://www.ams.org/meetings/sectional/2327_program.html), Boise, ID
-* April 2026, Invited speaker, [Notre Dame ACMS Applied Math Seminar](https://acms.nd.edu/events/), Notre Dame, IN
 * May 2026, Invited speaker, [Cal Poly Mathematics Colloquium](https://math.calpoly.edu/colloquium-and-seminar-schedules), San Luis Osbispo, CA
 * June 2026, Invited participant [NITMB Workshop on Extreme Events in Biological Functions](https://www.nitmb.org/extreme-events-workshop), Chicago, IL
 * July 2026, Minisymposia organizer and speaker [SIAM Annual/Life Sciences 2026](https://www.siam.org/conferences-events/siam-conferences/ls26/), Cleveland, OH
@@ -34,7 +32,9 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
 
 <details close>
 <summary>Recent Activities</summary> 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; February 2026, Invited speaker, <a href="https://math.asu.edu/asu-events-category/career-events?page=1">Arizona State University Math Biology Seminar</a>, Tempe, AZ <br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2026, Invited speaker, <a href="https://acms.nd.edu/events/">Notre Dame ACMS Applied Math Seminar</a>, Notre Dame, IN<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  March 2026, Special session organizer and speaker, <a href = "https://www.ams.org/meetings/sectional/2327_program.html">AMS Spring Western Sectional Meeting</a>, Boise, ID<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; February 2026, Invited speaker, <a href="https://math.asu.edu/asu-events-category/career-events?page=1">Arizona State University Math Biology Seminar</a>, Tempe, AZ <br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2026, Invited speaker, <a href="https://jointmathematicsmeetings.org/jmm">JMM 2026</a>, Washington, D.C. <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; December 2025, Minisymposium organizer and speaker, <a href="https://www.ascb.org/cellbio2025/">Cell Bio 2025</a>, Philadelphia, PA <br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; December 2025, Invited speaker,<a href = "https://www.brynmawr.edu/inside/academic-information/departments-programs/mathematics/seminars-colloquia-conferences/bi-co-math-colloquium">Bryn Mawr and Haverford College Math Colloquium</a>, Bryn Mawr, PA  <br/>
