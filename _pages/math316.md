@@ -1,8 +1,11 @@
-# MATH 316 — Applied Ordinary Differential Equations
-
-Course website of Monika Nitsche, Department of Mathematics and Statistics, University of New Mexico.
-
-- **Source:** <https://math.unm.edu/~nitsche/courses/316/>
+---
+layout: page
+permalink: /math316/
+title: Fall 2026, Math 316 - Applied Ordinary Differential Equations
+description: Course website of Monika Nitsche, Department of Mathematics and Statistics, University of New Mexico.
+nav: false
+nav_order: 1
+---
 - **Instructor:** Monika Nitsche
 - **Office:** SMLC 334
 - **Contact:** nitsche@math.unm.edu
