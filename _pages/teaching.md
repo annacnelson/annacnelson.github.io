@@ -3,8 +3,8 @@ layout: teaching
 permalink: /teaching/
 title: teaching
 description:
-nav: true
-nav_order: 4
+nav: false
+nav_order: 1
 profile:
   align: left
   image: 53119044395_a81412251d_o.jpg
