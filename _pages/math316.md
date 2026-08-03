@@ -8,7 +8,6 @@ Course website of Monika Nitsche, Department of Mathematics and Statistics, Univ
 - **Contact:** nitsche@math.unm.edu
 - **Department:** Department of Mathematics and Statistics, University of New Mexico, SMLC 334, Albuquerque, NM 87108 — tel 505-277-6566, Main Office 505-277-4613, Fax 505-277-5505
 
-> **Note:** The live site is built with frames, and the current-semester subpages (`s26/`, etc.) are updated each term, so a single static snapshot can't capture everything. This file consolidates the general/permanent course material (syllabus outline, topics, homework structure, exam reviews) that is linked from the site, plus links to the current term's homework where they could be located. Follow the links back to the live site for the latest postings.
 
 ---
 
