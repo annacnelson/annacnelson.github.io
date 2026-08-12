@@ -31,10 +31,11 @@ how problem solutions meet the problem objectives.
 
 **Textbook:** J. David Logan, *A first course in differential equations*, 3rd edition (available [here](https://link.springer.com/book/10.1007/978-3-319-17852-3))
 
-**Canvas:** All course materials, communications, and grades will be posted on our [Canvas website](https://canvas.unm.edu)
+**Canvas:** Canvas will be used for posting course announcements, homework assignments, grades, files and any relevant supplementary material, which can be accessed from the [Canvas website](https://canvas.unm.edu). Class notes will also be posted on Canvas. Students should check the Canvas page regularly for course information, announcements, and resources. Email notifications and correspondence will be sent to the student's UNM email address; this email account must be checked regularly.
 
 **Grading:** Your [course grade](#course-grade) will be determined from weekly homework, 4 mid-semester exams, and a final exam. Attendance and participation in all aspects of the course is required. Therefore, you need at least 50% in your total Homework score to pass the class. Note that inconsistent attendance and homework can lead to instructor-drop (see [Attendance](#Attendance)). See below for Grade Mode Change and Academic Dishonesty. Your final course grade will be determined by 
 
+| | | 
 |---|---|
 |Weekly homework | 14%|
 |In class quizzes | 4%|
@@ -47,12 +48,31 @@ Your current percentage grade will always be visible in your Canvas page. A comp
 
 If you decide to withdraw from the course you need to do so before the last day of classes. We do not assign a grade of W after the last Friday of classes.
 
+**Attendance Policy:** Attendance at UNM is mandatory and engagement in the class (regular homework completion, questions/comments inside and outside class, and in office hours) is necessary to succeed in this course. If you need to miss class, please let your instructor know. Any unexplained and continued absences and lack of homework may lead to being withdrawn from the course. Please make sure to stay in touch with your instructor in case of special circumstances that temporarily prevent you from participating as needed. If you have 4 or more total in unexplained class absences and unsubmitted homeworks, the instructor may drop you from the class without further notice.
 
 **Homework:** Weekly homework sets, posted on this website, are due on the given due date by 11:59pm, to be submitted through Canvas (pdf files only please, no jpg or png images). You need to work on these problems on a daily basis. Please note that UNM requires a minimum of two hours work outside of class for each credit hour, and this is a 3-credit course. Plan on working 2 hours per lecture. The homework is set up to make it clear which problems to work on after each lecture. 
 
 **Resources:** There are several resources to help you succeed in this class. Please consider your instructor and your recitation TA your primary resource. Visit them during drop-in hours and at the Tutoring Center (Calc Table). Ask questions inside and outside of class, let us know what difficulties you are having. We want to hear from you and we want to help you succeed. Below is a list of resources. 
 
 **MATLAB:** To download MATLAB, go to [https://it.unm.edu/download](https://it.unm.edu/download). MATLAB can also be accessed on the computers in the computer pods. Some useful links for using MATLAB are: [Mathworks MATLAB Onramp](https://matlabacademy.mathworks.com/), [Owen's MATLAB Tutorial](https://owenlewis.github.io/MatlabTutorial/), [MATLAB Basics: A Tutorial](https://math.unm.edu/~nitsche/courses/316/notes/matlabbasics.pdf), [Fundamentals of MATLAB by Michael Tanguay](https://ess.unm.edu/events/matlab/fundamentals-of-matlab.html). 
+
+---
+
+#### Important dates for this class: 
+| |  |
+|--|--|
+|Monday August 17| First day of classes|
+|Friday August 28|Last day to add sections/change grade mode in LoboWeb|
+|Friday September 4| Last day to drop without grade of "W"|
+|**Friday September 11**|**First in-class exam**|
+|**Friday October 2**|**Second in-class exam**|
+|Thurs.-Fri. October 8-9|Fall break, no classes|
+|**Friday October 23**|**Third in-class exam**|
+|Friday November 6|Last day to drop on LoboWeb|
+|**Friday November 13**|**Fourth in-class exam**|
+|Thurs.-Fri. November 26-27|Thanksgiving Break, no classes|
+|**Mon.-Fri. December 7-11**|**Finals week**|
+
 
 ---
 
@@ -77,8 +97,6 @@ If you decide to withdraw from the course you need to do so before the last day 
 | 15. <br> Nov. 23, 25, 27 |  &nbsp;&nbsp; 42. Epidemics, chemical kinetics (5.3.3) <br> &nbsp;&nbsp; 43. Nonlinear systems, bifurcations (5.5) <br> &nbsp;&nbsp; 44. *No class, Thanksgiving break*| 5.2, 5.3, 5.5 | [HW 14, due Tues Dec.1]() for days 42,43|
 | 16. <br> Nov. 30, Dec. 2, 4 |  &nbsp;&nbsp; 45. Review for final <br> &nbsp;&nbsp; 46. Review for final <br> &nbsp;&nbsp; 47. Review for final| [Final Review]()| No HW!|
 
-
-**Prerequisite & Review:** Math 1522 (Calculus II)
 
 
 
