@@ -13,7 +13,7 @@ nav_order: 1
 ---
 
 
-# Course Description
+#### Course Description
 
 Math 316 is an introductory course on ordinary differential equations. Topics include elementary theory of ordinary differential equations, analytical methods for solving linear first- and second-order equations, numerical methods, phase-plane analysis of nonlinear problems, and Laplace transform methods. Differential equations model many natural phenomena as well as applications in engineering and the physical sciences.
 
