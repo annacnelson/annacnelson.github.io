@@ -45,8 +45,8 @@ Note that inconsistent attendance and homework can lead to instructor-drop (see 
 #### Weekly schedule (tentative)
 | Week | Topics| Reading assignments | HW to be turned in |
 |---|---|---| --- |
-| 1  Aug. 17, 19, 21 | **Ch 1. First order ODEs** <br>1. First order equations, (1.1,1.2). <br> 2. Show given function solves DE, direction fields, solution curves. | 1.1, 1.2, 1.3.1 | [Instructions for all HW](/assets/teaching/math316/Math316_HW_instructions.pdf) <br> [HW 1, due Tues Aug 25]() for days 1,2
-| Weeks 1–3 | <p> 3. Separation of variables <br> 4. Linear equations: Integrating factor <br> 5. Applications | 1.2, 2.1–2.5, 2.7–2.8 |
+| 1  Aug. 17, 19, 21 | **Ch 1. First order ODEs** <br> &nbsp; &nbsp;1. First order equations, (1.1,1.2). <br> &nbsp;&nbsp;2. Show given function solves DE, direction fields, solution curves. <br> &nbsp; &nbsp;3. Separation of variables <br> | 1.1, 1.2, 1.3.1 | [Instructions for all HW](/assets/teaching/math316/Math316_HW_instructions.pdf) <br> [HW 1, due Tues Aug 25]() for days 1,2
+| 2. Aug. 24, 26, 28 | &nbsp; &nbsp; 4. First order equations, (1.1,1.2). <br> &nbsp;&nbsp;5. Show given function solves DE, direction fields, solution curves. <br> &nbsp; &nbsp;3. Separation of variables <br> | 1.2, 2.1–2.5, 2.7–2.8 |
 | Week 4 | **EXAM 1** | |
 | Weeks 4–5 | **Homogeneous 2nd-order equations**, ay″ + by′ + cy = 0. Constant-coefficient homogeneous case; enough theory to argue the general solution is a linear combination of two linearly independent (LI) solutions. | 3.1–3.4 |
 | Weeks 6–7 | **Nonhomogeneous 2nd-order equations**, ay″ + by′ + cy = g(t). General solution = homogeneous solution + particular solution; Method of Undetermined Coefficients; Variation of Parameters (always works, more complex than UC); harmonic and forced harmonic motion. | 3.5–3.8 |
