@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /math316/
-title: Fall 2026, Math 316 - Applied Ordinary Differential Equations
+title: Fall 2026, Math 316 - Applied Ordinary Differential Equations - All sections
 nav: false
 nav_order: 1
 ---
@@ -32,19 +32,20 @@ how problem solutions meet the problem objectives.
 **Canvas:** All course materials, communications, and grades will be posted on our [Canvas website](https://canvas.unm.edu)
 
 **Grading:** Your [course grade](#course-grade) will be determined from weekly homework, 4 mid-semester exams, and a final exam. Attendance and participation in all aspects of the course is required. Therefore, you need at least 50% in your total Homework score to pass the class.
-Note that inconsistent attendance and homework can lead to instructor-drop (see [Attendance](#Attendance).
+Note that inconsistent attendance and homework can lead to instructor-drop (see [Attendance](#Attendance)). See below for Grade Mode Change and Academic Dishonesty. 
 
 **Homework:** Weekly homework sets, posted on this website, are due on the given due date by 11:59pm, to be submitted through Canvas (pdf files only please, no jpg or png images). You need to work on these problems on a daily basis. Please note that UNM requires a minimum of two hours work outside of class for each credit hour, and this is a 3-credit course. Plan on working 2 hours per lecture. The homework is set up to make it clear which problems to work on after each lecture. 
 
-**Resources:** There are several resources to help you succeed in this class. Please consider your instructor and your recitation TA your primary resource. Visit them during drop-in hours and at the Tutoring Center (Calc Table). Ask questions inside and outside of class, let us know what difficulties you are having. We want to hear from you and we want to help you succeed. Below is a list of resources.
+**Resources:** There are several resources to help you succeed in this class. Please consider your instructor and your recitation TA your primary resource. Visit them during drop-in hours and at the Tutoring Center (Calc Table). Ask questions inside and outside of class, let us know what difficulties you are having. We want to hear from you and we want to help you succeed. Below is a list of resources. 
+
+**MATLAB:** To download MATLAB, go to [https://it.unm.edu/download](https://it.unm.edu/download). MATLAB can also be accessed on the computers in the computer pods. Some useful links for using MATLAB are: [Mathworks MATLAB Onramp](https://matlabacademy.mathworks.com/), [Owen's MATLAB Tutorial](https://owenlewis.github.io/MatlabTutorial/), [MATLAB Basics: A Tutorial](https://math.unm.edu/~nitsche/courses/316/notes/matlabbasics.pdf), [Fundamentals of MATLAB by Michael Tanguay](https://ess.unm.edu/events/matlab/fundamentals-of-matlab.html). 
 
 ---
 
-## General Syllabus — Course Outline
-
-
-| Timing | Topic | BD Sections |
-|---|---|---|
+#### Weekly schedule (tentative)
+|---|---|---| --- |
+| Week | Topics| Textbook sections | HW to be turned in |
+|---|---|---| --- |
 | Beginning Week 1 | **Introduction.** Classification of DEs. Mathematical models, dimensions and units, solutions to ODEs. | 1.1, 1.3 |
 | Weeks 1–3 | **First order equations**, dy/dx = f(x, y). Emphasis on geometry, solution techniques, numerical approximation: direction fields, solution curves, integral curves, existence/uniqueness theory, long-time behavior; autonomous equations dy/dx = f(y), phase line, equilibria and stability; separable equations dy/dx = f(x)g(y); linear equations y′ + p(x)y = g(x) via integrating factors and variation of parameters; Euler method; a 2nd-order Runge–Kutta method; theory of existence/uniqueness, linear vs. nonlinear. | 1.2, 2.1–2.5, 2.7–2.8 |
 | Week 4 | **EXAM 1** | |
