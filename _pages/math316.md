@@ -46,7 +46,7 @@ Note that inconsistent attendance and homework can lead to instructor-drop (see 
 
 | Week | Topics | Textbook sections to read | HW to be turned in |
 |---|---|---|---|
-| 1.  Aug. 17, 19, 21 | **Ch 1. First order ODEs** <br>  1. First order equations, (1.1,1.2). <br> 2. Show given function solves DE, direction fields, solution curves. <br>  3. Separation of variables <br> | 1.1, 1.2, 1.3.1 | [Instructions for all HW](/assets/teaching/math316/Math316_HW_instructions.pdf) <br> [HW 1, due Tues Aug 25]() for days 1,2 |
+| 1.  Aug. 17, 19, 21 | **Ch 1. First order ODEs** <br> &nbsp;&nbsp;1. First order equations, (1.1,1.2). <br> &nbsp;&nbsp;2. Show given function solves DE, direction fields, solution curves. <br>&nbsp;&nbsp;3. Separation of variables <br> | 1.1, 1.2, 1.3.1 | [Instructions for all HW](/assets/teaching/math316/Math316_HW_instructions.pdf) <br> [HW 1, due Tues Aug 25]() for days 1,2 |
 | 2. Aug. 24, 26, 28 | **Ch 1. First order ODEs**   4. Linear equations: integrating factor (1.4.1) <br>  5. Applications (1.3.2, 1.3.3, 1.4.2) <br> 6. Autonomous Eqns: phase line, equilibria, stability (1.5.1) <br> | 1.3.2, 1.3.3, 1.4.1, 1.4.2, 1.4.3 | [Instructions for all HW](/assets/teaching/math316/Math316_HW_instructions.pdf) <br> [HW 1, due Tues Aug 25]() for days 1,2|
 | 3. Aug. 32, Sept. 2, 4 | **Ch 1. First order ODEs**   7. Population models <br> 8.  | 1.2, 2.1–2.5, 2.7–28 | [Instructions for all HW](/assets/teaching/math316/Math316_HW_instructions.pdf) <br> [HW 1, due Tues Aug 25]() for days 1,2|
 
