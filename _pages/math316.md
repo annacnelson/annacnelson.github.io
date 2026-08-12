@@ -35,7 +35,7 @@ how problem solutions meet the problem objectives.
 
 **Grading:** Your [course grade](#course-grade) will be determined from weekly homework, 4 mid-semester exams, and a final exam. Attendance and participation in all aspects of the course is required. Therefore, you need at least 50% in your total Homework score to pass the class. Note that inconsistent attendance and homework can lead to instructor-drop (see [Attendance](#Attendance)). See below for Grade Mode Change and Academic Dishonesty. Your final course grade will be determined by 
 
-| | | 
+|Assessment|Grade percentage| 
 |---|---|
 |Weekly homework | 14%|
 |In class quizzes | 4%|
@@ -59,7 +59,7 @@ If you decide to withdraw from the course you need to do so before the last day 
 ---
 
 #### Important dates for this class: 
-| |  |
+|Date |Importance |
 |--|--|
 |Monday August 17| First day of classes|
 |Friday August 28|Last day to add sections/change grade mode in LoboWeb|
