@@ -11,12 +11,18 @@ nav_order: 1
 ---
 
 
-**Course Description:** Math 316 is an introductory course on ordinary differential equations. Topics include elementary theory of ordinary differential equations, analytical methods for solving linear first- and second-order equations, numerical methods, phase-plane analysis of nonlinear problems, and Laplace transform methods. Differential equations model many natural phenomena as well as applications in engineering and the physical sciences.
+**Course Description:** Math 316 is an introductory course on ordinary differential equations. Topics include elementary theory of ordinary differential equations, analytical methods for solving linear first- and second-order equations, numerical methods, phase-plane analysis of nonlinear problems, and introduction to Laplace transform methods. Differential equations model many natural phenomena as well as applications in engineering and the physical sciences. The goals of this course are to 
 
-**Goals of the course:**
 1. Give students the tools and skills needed for upcoming classes in engineering and the natural sciences.
-2. Develop analytical and numerical problem-solving skills for ODEs.
-3. Introduce the qualitative/geometric viewpoint (direction fields, phase planes, stability) alongside exact solution methods.
+2. Build your deductive reasoning and presentation skills. As a scientist or engineer you will have to explain your
+results to others. One focus in this class is on the presentation of your results, which must always be clear so
+that others who do not know the result can follow your work.
+3. Build your sense of how differential equations are used to model applications.
+
+Students will also gain experience with problem solving in groups. Students should be able to effectively transform
+problem objectives into appropriate problem solving methods through collaborative discussion. Students will also
+learn how to articulate questions effectively with both the instructor and TA, and be able to effectively articulate
+how problem solutions meet the problem objectives.
 
 **Prerequisite:** Math 1522 (Calculus II)
 **Corequisite:** Calculus III — Math 2350 or Math 2351
@@ -28,34 +34,14 @@ nav_order: 1
 **Grading:** Your [course grade](#course-grade) will be determined from weekly homework, 4 mid-semester exams, and a final exam. Attendance and participation in all aspects of the course is required. Therefore, you need at least 50% in your total Homework score to pass the class.
 Note that inconsistent attendance and homework can lead to instructor-drop (see [Attendance](#Attendance).
 
----
+**Homework:** Weekly homework sets, posted on this website, are due on the given due date by 11:59pm, to be submitted through Canvas (pdf files only please, no jpg or png images). You need to work on these problems on a daily basis. Please note that UNM requires a minimum of two hours work outside of class for each credit hour, and this is a 3-credit course. Plan on working 2 hours per lecture. The homework is set up to make it clear which problems to work on after each lecture. 
 
-**Course Grade**
-
-- [Course Info](https://math.unm.edu/~nitsche/courses/316/info.pdf)
-- [General Syllabus](https://math.unm.edu/~nitsche/courses/316/gensyll.pdf)
-- [Daily Syllabus](https://math.unm.edu/~nitsche/courses/316/syll.pdf)
-- [Installing MATLAB](https://math.unm.edu/~nitsche/courses/316/matlabinstall.pdf)
-- [Short MATLAB Tutorial](http://www.math.unm.edu/~nitsche/courses/162/web/tutorial.pdf)
-
-### Exam Reviews
-- [Review — Exam 1](https://math.unm.edu/~nitsche/courses/316/review1.pdf)
-- [Review — Exam 2](https://math.unm.edu/~nitsche/courses/316/review2.pdf)
-- [Review — Exam 3](https://math.unm.edu/~nitsche/courses/316/review3.pdf)
-- [Review — Final Exam](https://math.unm.edu/~nitsche/courses/316/reviewfin.pdf)
-
-### Current-Term Homework (Spring 2026, `s26/`)
-Homework for the current term is posted under `/s26/`. Examples found on the live site:
-- [HW 2](https://math.unm.edu/~nitsche/courses/316/s26/hw02.pdf)
-- [HW 6](https://math.unm.edu/~nitsche/courses/316/s26/hw06.pdf) — Due Tuesday, Mar 3, 2026 (Homework Day 15 — Applications, §2.2.3, 2.2.4)
-
-(Additional homework numbers follow the same pattern: `s26/hw03.pdf`, `s26/hw04.pdf`, etc. — check the live site's frame navigation for the full, current list.)
+**Resources:** There are several resources to help you succeed in this class. Please consider your instructor and your recitation TA your primary resource. Visit them during drop-in hours and at the Tutoring Center (Calc Table). Ask questions inside and outside of class, let us know what difficulties you are having. We want to hear from you and we want to help you succeed. Below is a list of resources.
 
 ---
 
 ## General Syllabus — Course Outline
 
-**Texts:** Boyce and DiPrima (BD), *Differential Equations* (required); Polking and Arnold (PA), *Ordinary Differential Equations using Matlab* (optional)
 
 | Timing | Topic | BD Sections |
 |---|---|---|
