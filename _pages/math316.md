@@ -58,7 +58,13 @@ Note that inconsistent attendance and homework can lead to instructor-drop (see 
 | 10. Oct. 19, 21, 23 |  &nbsp;&nbsp; 27. Impulsive forces (3.4) <br>  <br> &nbsp;&nbsp;28. Review  <br> &nbsp;&nbsp; 29. **Exam 3 (HW 7-8)** |3.4, [Review 3]()| [Instructions for all HW](/assets/teaching/math316/Math316_HW_instructions.pdf) <br> [HW 1, due Tues Aug 25]() for days 1,2|
 | 11. Oct. 26, 28, 30 |  **Ch 4. Linear Systems x'=Ax**<br> &nbsp;&nbsp; 30. Solving Ax=b, matrix representation, inverses, determinants (4.1)  <br> &nbsp;&nbsp;31. Systems x'=Ax, vector valued functions, graphs, derivatives (4.2)  <br> &nbsp;&nbsp; 32. Solving x'=Ax, eigenvalues, eigenvectors (4.3) |4.1, 4.2.1, 4.2.2, 4.3| [Instructions for all HW](/assets/teaching/math316/Math316_HW_instructions.pdf) <br> [HW 1, due Tues Aug 25]() for days 1,2|
 | 12. Nov. 2, 4, 6 |  &nbsp;&nbsp; 33. Real distinct eigenvalues: saddle, phase portrait (4.4.1)  <br> &nbsp;&nbsp;34. Real distinct eigenvalues: nodes, zero eigenvalue (4.4.1)   <br> &nbsp;&nbsp; 35. Complex eigenvalues: spirals, centers (4.4.2) |4.4.1, 4.4.2| [Instructions for all HW](/assets/teaching/math316/Math316_HW_instructions.pdf) <br> [HW 1, due Tues Aug 25]() for days 1,2|
-| 13. Nov. 9, 11, 13 |  &nbsp;&nbsp; 36. Repeated eigenvalues: stars, degenerate (4.4.3)  <br> &nbsp;&nbsp;37. Real distinct eigenvalues: nodes, zero eigenvalue (4.4.1)   <br> &nbsp;&nbsp; 38. Complex eigenvaxlues: spirals, centers (4.4.2) |4.4.1, 4.4.2| [Instructions for all HW](/assets/teaching/math316/Math316_HW_instructions.pdf) <br> [HW 1, due Tues Aug 25]() for days 1,2|
+| 13. Nov. 9, 11, 13 |  &nbsp;&nbsp; 36. Repeated eigenvalues: stars, degenerate (4.4.3)  <br> &nbsp;&nbsp;37. Review <br> &nbsp;&nbsp; 38. **Exam 4(HW 9-11)** |5.1, [Review 4]() | [Instructions for all HW](/assets/teaching/math316/Math316_HW_instructions.pdf) <br> [HW 1, due Tues Aug 25]() for days 1,2|
+| 14. Nov. 16, 18, 20 |  **Ch 5. Nonlinear systems** <br> &nbsp;&nbsp; 39. Second order as system, equilibria, linearization  <br> &nbsp;&nbsp;40. Simple example, competing species (5.1)<br> &nbsp;&nbsp; 41. Lotka-Volterra Model (predator-prey) (5.3.1) | 5.1, 5.2, 5.3 | [Instructions for all HW](/assets/teaching/math316/Math316_HW_instructions.pdf) <br> [HW 1, due Tues Aug 25]() for days 1,2|
+| 15. Nov. 23, 25, 27 |  &nbsp;&nbsp; 42. Nonlinear mechanics, pendulum (5.2) <br> &nbsp;&nbsp;43. Nonlinear systems, bifurcations (5.5) <br> &nbsp;&nbsp; 44. *No class, Thanksgiving break*| 5.2, 5.3, 5.5 | [Instructions for all HW](/assets/teaching/math316/Math316_HW_instructions.pdf) <br> [HW 1, due Tues Aug 25]() for days 1,2|
+| 16. Nov. 30, Dec. 2, 4 |  &nbsp;&nbsp; 45. Review for final <br> &nbsp;&nbsp;46. Review for final <br> &nbsp;&nbsp; 47. Review for final| [Final review]()| [Instructions for all HW](/assets/teaching/math316/Math316_HW_instructions.pdf) <br> [HW 1, due Tues Aug 25]() for days 1,2|
+
+
+
 
 
 
