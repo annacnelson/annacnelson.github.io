@@ -8,8 +8,14 @@ nav_order: 1
 - **Instructors:** Michael Heitzman, Anna Nelson, Bill Spotz, Tada Takahashi
 - **Coordinator:** Anna Nelson, annanelson@unm.edu, SMLC 226
 - **Department:** Department of Mathematics and Statistics, University of New Mexico, Albuquerque, NM 87108 — tel 505-277-6566, Main Office 505-277-4613, Fax 505-277-5505
+
+
 ---
+
 ## Course Description
+
+---
+
 # Course Description
 
 Math 316 is an introductory course on ordinary differential equations. Topics include elementary theory of ordinary differential equations, analytical methods for solving linear first- and second-order equations, numerical methods, phase-plane analysis of nonlinear problems, and Laplace transform methods. Differential equations model many natural phenomena as well as applications in engineering and the physical sciences.
