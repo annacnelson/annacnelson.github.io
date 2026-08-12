@@ -37,10 +37,10 @@ how problem solutions meet the problem objectives.
 
 |   |   |
 |---|---|
-Weekly homework | 14%
-In class quizzes | 4%
-4 mid-semester exams | 60%
-Cumulative final exam | 22%
+|Weekly homework | 14%|
+|In class quizzes | 4%|
+|4 mid-semester exams | 60%|
+|Cumulative final exam | 22%|
 
 The lowest two homework scores and the lowest quiz score will be dropped when calculating your course grade. Participation in all aspects of the course is required. Therefore, you cannot pass the class unless you score at least 50\% of your total Homework grade. In addition, your instructor may choose to assign up to 20 points for attendance and participation. Participation may be in the form of reading material for the course, completing worksheets in class, etc.
 
