@@ -11,9 +11,7 @@ nav_order: 1
 ---
 
 
-**Course Description:**
-
-Math 316 is an introductory course on ordinary differential equations. Topics include elementary theory of ordinary differential equations, analytical methods for solving linear first- and second-order equations, numerical methods, phase-plane analysis of nonlinear problems, and Laplace transform methods. Differential equations model many natural phenomena as well as applications in engineering and the physical sciences.
+**Course Description:** Math 316 is an introductory course on ordinary differential equations. Topics include elementary theory of ordinary differential equations, analytical methods for solving linear first- and second-order equations, numerical methods, phase-plane analysis of nonlinear problems, and Laplace transform methods. Differential equations model many natural phenomena as well as applications in engineering and the physical sciences.
 
 **Goals of the course:**
 1. Give students the tools and skills needed for upcoming classes in engineering and the natural sciences.
@@ -23,14 +21,11 @@ Math 316 is an introductory course on ordinary differential equations. Topics in
 **Prerequisite:** Math 1522 (Calculus II)
 **Corequisite:** Calculus III — Math 2350 or Math 2351
 
-**Textbook:**
-- J. David Logan, *A first course in differential equations*, 3rd edition (available [here](https://link.springer.com/book/10.1007/978-3-319-17852-3)
+**Textbook:** J. David Logan, *A first course in differential equations*, 3rd edition (available [here](https://link.springer.com/book/10.1007/978-3-319-17852-3)
 
-**Canvas:**
-All course materials, communications, and grades will be posted on our [Canvas website](https://canvas.unm.edu)
+**Canvas:** All course materials, communications, and grades will be posted on our [Canvas website](https://canvas.unm.edu)
 
-**Grading:**
-Your [course grade](#course-grade) will be determined from weekly homework, 4 mid-semester exams, and a final exam. Attendance and participation in all aspects of the course is required. Therefore, you need at least 50% in your total Homework score to pass the class.
+**Grading:** Your [course grade](#course-grade) will be determined from weekly homework, 4 mid-semester exams, and a final exam. Attendance and participation in all aspects of the course is required. Therefore, you need at least 50% in your total Homework score to pass the class.
 Note that inconsistent attendance and homework can lead to instructor-drop (see [Attendance](#Attendance).
 
 ---
