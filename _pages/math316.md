@@ -11,7 +11,7 @@ nav_order: 1
 ---
 
 
-**Course Description:** Math 316 is an introductory course on ordinary differential equations. Topics include elementary theory of ordinary differential equations, analytical methods for solving linear first- and second-order equations, numerical methods, phase-plane analysis of nonlinear problems, and introduction to Laplace transform methods. Differential equations model many natural phenomena as well as applications in engineering and the physical sciences. The goals of this course are to 
+**Course Topics & Description:** Math 316 is an introductory course on ordinary differential equations. Topics include elementary theory of ordinary differential equations, analytical methods for solving linear first- and second-order equations, numerical methods, phase-plane analysis of nonlinear problems, and introduction to Laplace transform methods. Differential equations model many natural phenomena as well as applications in engineering and the physical sciences. The goals of this course are to 
 
 1. Give students the tools and skills needed for upcoming classes in engineering and the natural sciences.
 2. Build your deductive reasoning and presentation skills. As a scientist or engineer you will have to explain your
@@ -27,12 +27,26 @@ how problem solutions meet the problem objectives.
 **Prerequisite:** Math 1522 (Calculus II)
 **Corequisite:** Calculus III — Math 2350 or Math 2351
 
-**Textbook:** J. David Logan, *A first course in differential equations*, 3rd edition (available [here](https://link.springer.com/book/10.1007/978-3-319-17852-3)
+**Prerequisites & Review:** We will use the differentiation and integration methods you learned in Math 1512 and Math 1522. A sample of review problems is posted on Canvas so you can review before the semester starts and be well prepared. (For solutions, see Canvas). The goal of mathematics courses at UNM is to build your skills and strengthen them as you go semester after semester. Review is needed, but don't worry if you do not feel 100\% confident to start with. We will review as we go and gain skill and confidence throughout. If you have not taken a mathematics course in the last 3 semesters, we recommend that you do not take Calculus III and Math 316 concurrently. Math 316 is offered every summer at UNM which gives you an opportunity to take it at that point. Please meet with your instructor if you wish to talk about which is the appropriate course for you.
+
+**Textbook:** J. David Logan, *A first course in differential equations*, 3rd edition (available [here](https://link.springer.com/book/10.1007/978-3-319-17852-3))
 
 **Canvas:** All course materials, communications, and grades will be posted on our [Canvas website](https://canvas.unm.edu)
 
-**Grading:** Your [course grade](#course-grade) will be determined from weekly homework, 4 mid-semester exams, and a final exam. Attendance and participation in all aspects of the course is required. Therefore, you need at least 50% in your total Homework score to pass the class.
-Note that inconsistent attendance and homework can lead to instructor-drop (see [Attendance](#Attendance)). See below for Grade Mode Change and Academic Dishonesty. 
+**Grading:** Your [course grade](#course-grade) will be determined from weekly homework, 4 mid-semester exams, and a final exam. Attendance and participation in all aspects of the course is required. Therefore, you need at least 50% in your total Homework score to pass the class. Note that inconsistent attendance and homework can lead to instructor-drop (see [Attendance](#Attendance)). See below for Grade Mode Change and Academic Dishonesty. Your final course grade will be determined by 
+
+|---|---|
+Weekly homework | 14%
+In class quizzes | 4%
+4 mid-semester exams | 60%
+Cumulative final exam | 22%
+
+The lowest two homework scores and the lowest quiz score will be dropped when calculating your course grade. Participation in all aspects of the course is required. Therefore, you cannot pass the class unless you score at least 50\% of your total Homework grade. In addition, your instructor may choose to assign up to 20 points for attendance and participation. Participation may be in the form of reading material for the course, completing worksheets in class, etc.
+
+Your current percentage grade will always be visible in your Canvas page. A comprehensive 90\%, 80\%, or 70\% grade will guarantee a passing grade of A,B or C, respectively, in the course. However, a grade below 70\% does not mean you will fail the class. While your instructor will give general feedback on grades in class, you should make sure to contact your instructor directly anytime you want to know more closely what your standing in the course is. In particular, you need to contact your instructor before deciding to drop the course.
+
+If you decide to withdraw from the course you need to do so before the last day of classes. We do not assign a grade of W after the last Friday of classes.
+
 
 **Homework:** Weekly homework sets, posted on this website, are due on the given due date by 11:59pm, to be submitted through Canvas (pdf files only please, no jpg or png images). You need to work on these problems on a daily basis. Please note that UNM requires a minimum of two hours work outside of class for each credit hour, and this is a 3-credit course. Plan on working 2 hours per lecture. The homework is set up to make it clear which problems to work on after each lecture. 
 
@@ -64,84 +78,10 @@ Note that inconsistent attendance and homework can lead to instructor-drop (see 
 | 16. <br> Nov. 30, Dec. 2, 4 |  &nbsp;&nbsp; 45. Review for final <br> &nbsp;&nbsp; 46. Review for final <br> &nbsp;&nbsp; 47. Review for final| [Final Review]()| No HW!|
 
 
-
+**Prerequisite & Review:** Math 1522 (Calculus II)
 
 
 
 ---
 
-## Grading (from a past Course Info sheet — confirm current-term weighting on the live syllabus)
 
-| Component | Points |
-|---|---|
-| Three in-class exams | 100 pts each |
-| Daily Homework | 150 pts |
-| Final Exam | 200 pts |
-| **Total** | **650 pts** |
-
-Students are strongly encouraged to collaborate on homework, but each solution must be handed in individually, in the student's own handwriting and own words.
-
-**Outline of material:**
-1. Introduction (Chapter 1)
-2. First order equations (Chapter 2)
-3. Second order linear equations (Chapter 3)
-4. Laplace Transform for linear equations (Chapter 6)
-5. Second order linear systems (Chapter 7)
-6. Nonlinear systems (Chapter 9)
-
----
-
-## Lecture-by-Lecture Notes (from the "316 Notes" page)
-
-These lecture summaries and homework mappings are from the general notes page linked off the course site (dated to a past Spring term — the same lecture sequence/topics recur each time the course is offered, though dates and homework numbers shift term to term).
-
-- **Lecture 1 — Classification of Differential Equations. Course goals.** ODE vs. PDE, linear vs. nonlinear, order of a DE, solutions. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec01_intro.pdf) — HW: §1.3: 1–6, 7, 8, 11, 14, 18, 19.
-- **Lecture 2 — Mathematical models.** Mechanical systems, population models, mixing; dimensions and units. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec02_models.pdf) — HW: §1.1: 21a, 22, 23, 24a.
-- **Lecture 3 — First order equations. Direction fields.** Direction fields, autonomous equations, equilibria. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec03_dfields.pdf)
-- **Lecture 4 — Autonomous equations. Phase line.** Phase line for 1st-order autonomous ODEs; equilibria and stability. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec04_auton.pdf)
-- **Lecture 5 — Separation of variables.** Chain Rule; division by zero; logistic equation. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec05_sepvar.pdf)
-- **Lecture 6 — Linear equations: method of integrating factors.** Main idea, examples, limiting behavior. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec06_linear.pdf)
-- **Lecture 7 — Modeling. Linear vs. nonlinear equations.** Using phase line and solution methods to explore models.
-- **Lecture 8 — Euler's method.** Derivation, hand example, MATLAB function. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec08_euler.pdf)
-- **Lecture 9 — Modified Euler method.** Derivation, MATLAB function/results. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec09_modeuler.pdf)
-- **Lecture 10 — Review.**
-- **Lecture 11 — Exam 1.**
-- **Lecture 12 — 2nd-order linear, constant-coefficient, homogeneous.** Characteristic equation, general solution, linear operators; Case 1 — real, distinct roots. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec12_2dlinear.pdf)
-- **Lecture 13 — The Wronskian.** Fundamental sets of solutions. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec13_wronskian.pdf)
-- **Lecture 14 — 2nd-order linear, homogeneous — Case 2: complex roots.** Review of complex numbers; general real solution. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec14_2dlinear_cx.pdf)
-- **Lecture 15 — 2nd-order linear, homogeneous — Case 3: repeated roots.** Amplitude/phase shift of periodic functions; summary of all cases. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec15_2dconst.pdf)
-- **Lecture 16 — Reduction of order.** Finding a second solution from one known solution. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec16_2dreduction.pdf)
-- **Lecture 17 — Undetermined coefficients (nonhomogeneous).** [Summary (17+18)](https://math.unm.edu/~nitsche/courses/316/s16/lec17_undetcoeff.pdf)
-- **Lecture 18 — Undetermined coefficients, continued.** Case where the guess y_p overlaps the homogeneous solution y_H; resonance.
-- **Lecture 19 — Variation of parameters (nonhomogeneous).** Method and examples. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec19_varpar.pdf)
-- **Lecture 20 — Mechanical oscillators: damped springs.** Overdamped, underdamped, critically damped; forced case — transient and steady-state parts; resonance behavior. [Summary (20+21)](https://math.unm.edu/~nitsche/courses/316/s16/lec2021_springs.pdf)
-- **Lecture 21 — Mechanical oscillators: undamped springs.** Oscillations without forcing; beats and resonance with forcing.
-- **Lecture 22 — Review.**
-- **Lecture 23 — Exam 2.**
-- **Spring Break**
-- **Lecture 24 — Laplace Transform: definition, linearity, applications.** [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec24_lap1.pdf)
-- **Lecture 25 — Laplace Transform: building a table of transforms.** Convergence; solving an IVP. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec25_lap2.pdf)
-- **Lecture 26 — Laplace Transform: shift formula, piecewise functions.** L[e^(ct)g(t)]; u_c(t). [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec26_lap3.pdf)
-- **Lecture 27 — Laplace Transform: discontinuous forcing.** L[u_c(t)g(t−c)]. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec27_lap4.pdf) · [Example](https://math.unm.edu/~nitsche/courses/316/s16/example_piecewise.pdf)
-- **Lecture 28 — Laplace Transform: impulse functions.** L[δ] = 1. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec28_lapimpulse.pdf)
-- **Lecture 29 — Laplace Transform: convolutions.** L[f*g] = L[f]L[g]. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec29_lapconv.pdf)
-- **Lecture 30 — Linear algebra introduction.** Matrices, operations, 2×2 linear systems. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec30_intromat.pdf)
-- **Lecture 31 — Solving x′ = Ax. The eigenvalue problem.** Writing a 2nd-order equation in matrix form; x = e^(λt)v. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec31_lin2.pdf)
-- **Lecture 32 — The phase plane.** Example. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec32_lin3.pdf)
-- **Lecture 33 — Real, distinct eigenvalues.** Equilibria, det(A), eigenvalues. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec33_real1.pdf)
-- **Lecture 34 — Real, distinct eigenvalues (cont.).** Saddles, nodes, line of equilibria. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec34_real2.pdf)
-- **Lecture 35 — Complex eigenvalues.** Stable/unstable spirals, centers. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec35_complex.pdf)
-- **Lecture 36 — Repeated eigenvalues.** Degenerate nodes. [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec36_repeated.pdf)
-- **Lecture 38 — Review.**
-- **Lecture 39 — Exam 3.**
-- **Lecture 40 — Nonlinear autonomous systems: linearization.** [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec40_nonlinear.pdf)
-- **Lecture 41 — Nonlinear autonomous systems: competing species.** [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec41_compspecies.pdf)
-- **Lecture 42 — Nonlinear autonomous systems: predator–prey, pendulum.** [Summary](https://math.unm.edu/~nitsche/courses/316/s16/lec42_predprey+pend.pdf)
-
----
-
-## Site Navigation
-
-- [316 Home](https://math.unm.edu/~nitsche/courses/316/)
-- [Department Home](https://math.unm.edu/index.php)
-- [UNM](https://www.unm.edu/)
