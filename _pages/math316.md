@@ -2,19 +2,15 @@
 layout: page
 permalink: /math316/
 title: Fall 2026, Math 316 - Applied Ordinary Differential Equations
-description: Course website of Monika Nitsche, Department of Mathematics and Statistics, University of New Mexico.
 nav: false
 nav_order: 1
 ---
-- **Instructor:** Monika Nitsche
-- **Office:** SMLC 334
-- **Contact:** nitsche@math.unm.edu
-- **Department:** Department of Mathematics and Statistics, University of New Mexico, SMLC 334, Albuquerque, NM 87108 — tel 505-277-6566, Main Office 505-277-4613, Fax 505-277-5505
-
-
+- **Instructors:** Michael Heitzman, Anna Nelson, Bill Spotz, Tada Takahashi
+- **Coordinator:** Anna Nelson, annanelson@unm.edu, SMLC 226
+- **Department:** Department of Mathematics and Statistics, University of New Mexico, Albuquerque, NM 87108 — tel 505-277-6566, Main Office 505-277-4613, Fax 505-277-5505
 ---
-
 ## Course Description
+# Course Description
 
 Math 316 is an introductory course on ordinary differential equations. Topics include elementary theory of ordinary differential equations, analytical methods for solving linear first- and second-order equations, numerical methods, phase-plane analysis of nonlinear problems, and Laplace transform methods. Differential equations model many natural phenomena as well as applications in engineering and the physical sciences.
 
@@ -23,7 +19,7 @@ Math 316 is an introductory course on ordinary differential equations. Topics in
 2. Develop analytical and numerical problem-solving skills for ODEs.
 3. Introduce the qualitative/geometric viewpoint (direction fields, phase planes, stability) alongside exact solution methods.
 
-**Prerequisite:** Math 163 (Calculus II)
+**Prerequisite:** Math 1522 (Calculus II)
 **Corequisite:** Calculus III — Math 2350 or Math 2351 (previously numbered Math 264)
 
 A computing course is not required, but simple MATLAB (or Python/Octave) exercises may be assigned to plot and explore solutions of differential equations. Students are responsible for accessing and starting a programming language such as MATLAB, Python, or Octave.
