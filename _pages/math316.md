@@ -12,9 +12,6 @@ nav_order: 1
 
 ---
 
-## Course Description
-
----
 
 # Course Description
 
