@@ -45,7 +45,7 @@ Note that inconsistent attendance and homework can lead to instructor-drop (see 
 #### Weekly schedule (tentative)
 | Week | Topics| Reading assignments | HW to be turned in |
 |---|---|---| --- |
-| 1 <b> Aug. 17, 19, 21 | **Ch 1. First order ODEs** <br> 1. First order equations, (1.1,1.2). <br> 2. Show given function solves DE, direction fields, solution curves. | 1.1, 1.2, 1.3.1 | [Instructions for all HW](/assets/teaching/math316/Math316_HW_instructions.pdf) <br> [HW 1, due Tues Aug 25]() for days 1,2
+| 1  Aug. 17, 19, 21 | **Ch 1. First order ODEs** <br> 1. First order equations, (1.1,1.2). <br> 2. Show given function solves DE, direction fields, solution curves. | 1.1, 1.2, 1.3.1 | [Instructions for all HW](/assets/teaching/math316/Math316_HW_instructions.pdf) <br> [HW 1, due Tues Aug 25]() for days 1,2
 | Weeks 1–3 | **First order equations**, dy/dx = f(x, y). Emphasis on geometry, solution techniques, numerical approximation: direction fields, solution curves, integral curves, existence/uniqueness theory, long-time behavior; autonomous equations dy/dx = f(y), phase line, equilibria and stability; separable equations dy/dx = f(x)g(y); linear equations y′ + p(x)y = g(x) via integrating factors and variation of parameters; Euler method; a 2nd-order Runge–Kutta method; theory of existence/uniqueness, linear vs. nonlinear. | 1.2, 2.1–2.5, 2.7–2.8 |
 | Week 4 | **EXAM 1** | |
 | Weeks 4–5 | **Homogeneous 2nd-order equations**, ay″ + by′ + cy = 0. Constant-coefficient homogeneous case; enough theory to argue the general solution is a linear combination of two linearly independent (LI) solutions. | 3.1–3.4 |
