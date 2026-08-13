@@ -12,12 +12,14 @@ profile:
   address: 
   
 ---
-I have had the opportunity to teach a wide variety of courses at Duke University and at the University of Utah. During 2018-2019, I was a University Teaching Assistantship recipient from the Graduate School at Utah to continue a peer mentorship program for graduate students. 
+I have had the opportunity to teach a wide variety of courses at the University of New Mexico, Duke University, and at the University of Utah. During 2018-2019, I was a University Teaching Assistantship recipient from the Graduate School at Utah to continue a peer mentorship program for graduate students. 
 
 I am passionate about teaching pedagogy and I am a MAA Project NExT Fellow (Red '22). I am also interested in training graduate student instructors in teaching and was involved with the Utah Math Instructor Training Workshop for 3 years, which is an annual workshop that includes practice lectures, workshops on campus-wide resources, and teaching pedagogy workshops.
 <hr/>
 
 ### Current and past teaching experience
+* MATH 316: Applied Ordinary Differential Equations [Fall 2026, U. of New Mexico]
+* MATH 583: Methods of Applied Mathematics [Fall 2025, U. of New Mexico]
 * MATH 353: Ordinary and Partial Differential Equations [Fall 2021, Spring 2022, Spring 2024, Duke]
 * MATH 577: Mathematical Modeling (Graduate level course) [Spring 2023, Duke]
 * BIO 218/MATH 183: Biological Clocks: How Organisms Keep Time [Fall 2022, Fall 2023, Duke]
