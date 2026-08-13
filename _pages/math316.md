@@ -86,7 +86,7 @@ Referral to other sources outside of the material given in class (such as search
 
 ---
 
-#### Weekly schedule (tentative)
+#### Weekly schedule
 
 | Week | Topics covered during class | Book sections| HW to be turned in |
 |:---:|---|---|---|
