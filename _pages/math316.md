@@ -22,11 +22,6 @@ results to others. One focus in this class is on the presentation of your result
 that others who do not know the result can follow your work.
 3. Build your sense of how differential equations are used to model applications.
 
-Students will also gain experience with problem solving in groups. Students should be able to effectively transform
-problem objectives into appropriate problem solving methods through collaborative discussion. Students will also
-learn how to articulate questions effectively with both the instructor and TA, and be able to effectively articulate
-how problem solutions meet the problem objectives.
-
 **Prerequisite:** Math 1522 (Calculus II)
 **Corequisite:** Calculus III — Math 2350 or Math 2351
 
