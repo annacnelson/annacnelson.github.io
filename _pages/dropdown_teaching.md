@@ -7,8 +7,8 @@ dropdown: true
 children: 
     - title: teaching overview
       permalink: /teaching/
-  # - title: divider
- - title: Fall 2026, Math 316
+    - title: divider
+    - title: Fall 2026, Math 316
      permalink: /math316/
   
 ---
