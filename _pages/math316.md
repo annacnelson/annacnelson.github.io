@@ -52,7 +52,7 @@ If you decide to withdraw from the course you need to do so before the last day 
 
 **Homework:** Weekly homework sets, posted on this website, are due on the given due date by 11:59pm, to be submitted through Canvas (pdf files only please, no jpg or png images). You need to work on these problems on a daily basis. Please note that UNM requires a minimum of two hours work outside of class for each credit hour, and this is a 3-credit course. Plan on working 2 hours per lecture. The homework is set up to make it clear which problems to work on after each lecture. 
 
-**Resources:** There are several resources to help you succeed in this class. Please consider your instructor and your TA your primary resource. Visit them during drop-in hours, at the Tutoring Center (Calc Table), and during office hours. Ask questions inside and outside of class, let us know what difficulties you are having. We want to hear from you and we want to help you succeed. Below is a list of resources. 
+**Resources:** There are several resources to help you succeed in this class. Please consider your instructor and your TA your primary resource. Visit them during drop-in hours, at the Tutoring Center (Calc Table), and during office hours. Ask questions inside and outside of class, let us know what difficulties you are having. We want to hear from you and we want to help you succeed. Below is a [list of resources](#resources). 
 
 **MATLAB:** To download MATLAB, go to [https://it.unm.edu/download](https://it.unm.edu/download). MATLAB can also be accessed on the computers in the computer pods. Some useful links for using MATLAB are: [Mathworks MATLAB Onramp](https://matlabacademy.mathworks.com/), [Owen's MATLAB Tutorial](https://owenlewis.github.io/MatlabTutorial/), [MATLAB Basics: A Tutorial](https://math.unm.edu/~nitsche/courses/316/notes/matlabbasics.pdf), [Fundamentals of MATLAB by Michael Tanguay](https://ess.unm.edu/events/matlab/fundamentals-of-matlab.html). 
 
@@ -82,7 +82,7 @@ If you decide to withdraw from the course you need to do so before the last day 
 |:---:|---|---|---|
 | 1. <br> Aug. 17, 19, 21 | **Ch 1. First order ODEs** <br> &nbsp;&nbsp; 1. First order equations, (1.1,1.2). <br> &nbsp;&nbsp; 2. Show given function solves DE, direction fields, solution curves. <br>&nbsp;&nbsp; 3. Separation of variables <br> | 1.1, 1.2, 1.3.1 | [Instructions for all HW](/assets/teaching/math316/Math316_HW_instructions.pdf) <br> HW 1, due Tues Aug. 25 for days 1,2,3 |
 | 2. <br> Aug. 24, 26, 28 | &nbsp;&nbsp; 4. Linear equations: integrating factor (1.4.1) <br> &nbsp;&nbsp; 5. Applications (1.3.2, 1.3.3, 1.4.2) <br> &nbsp;&nbsp; 6. Autonomous Eqns: phase line, equilibria, stability (1.5.1) <br> | 1.3.2, 1.3.3, 1.4.1, 1.4.2, 1.4.3, 1.5.1 | HW 2, due Tues Sept. 1 for days 4, 5,6|
-| 3. <br> Aug. 32, Sept. 2, 4 | <br> &nbsp;&nbsp; 7. Population models <br> &nbsp;&nbsp; 8. Existence and uniqueness, examples  <br> **Ch 2. Second order linear ODEs, homogeneous** <br> &nbsp;&nbsp; 9. Springs (unforced), damped, undamped (2.1) | 1.5.1, 1.5.3, 2.1| HW 3, due Tues Sept 8 for days 7,8,9|
+| 3. <br> Aug. 32, Sept. 2, 4 | &nbsp;&nbsp; 7. Population models <br> &nbsp;&nbsp; 8. Existence and uniqueness, examples  <br> **Ch 2. Second order linear ODEs, homogeneous** <br> &nbsp;&nbsp; 9. Springs (unforced), damped, undamped (2.1) | 1.5.1, 1.5.3, 2.1| HW 3, due Tues Sept 8 for days 7,8,9|
 | 4. <br> Sept. 7, 9, 11 | &nbsp;&nbsp; 10. *No class, Labor Day* <br> &nbsp;&nbsp; 11. Review for exam  <br> &nbsp;&nbsp; 12. **Exam 1 (HW 1-3)** |[Review 1| No HW!|
 | 5. <br> Sept. 14, 16, 18 |  &nbsp;&nbsp; 13. Characteristic eq: real distinct roots (2.2.1) <br> &nbsp;&nbsp; 14. Characteristic eq: repeated roots (2.2.2)  <br> &nbsp;&nbsp; 15. Characteristic eq: complex roots (2.2.3) |2.2.1-2.2.3| HW 4, due Tues Sept. 22 for days 12, 13, 14|
 | 6. <br> Sept. 21, 23, 25 |  &nbsp;&nbsp; 15. Springs, unforced (2.2.4) <br> **Ch 2. Second order linear ODEs, nonhomogeneous** <br> &nbsp;&nbsp; 16. Method of undetermined coefficients (2.3.1)  <br> &nbsp;&nbsp; 17. Springs, forced, beats, and resonance (2.3.2) |2.2.4, 2.3.1, 2.3.2|  HW 5, due Tues Sept 29 for days 15, 16, 17|
@@ -97,6 +97,16 @@ If you decide to withdraw from the course you need to do so before the last day 
 | 15. <br> Nov. 23, 25, 27 |  &nbsp;&nbsp; 42. Epidemics, chemical kinetics (5.3.3) <br> &nbsp;&nbsp; 43. Nonlinear systems, bifurcations (5.5) <br> &nbsp;&nbsp; 44. *No class, Thanksgiving break*| 5.2, 5.3, 5.5 | HW 14, due Tues Dec.1 for days 42,43|
 | 16. <br> Nov. 30, Dec. 2, 4 |  &nbsp;&nbsp; 45. Review for final <br> &nbsp;&nbsp; 46. Review for final <br> &nbsp;&nbsp; 47. Review for final| [Final Review| No HW!|
 
+**List of resources:** There are several resources to help you succeed in this class. Please consider your instructor your primary resource. Visit them during drop-in hours help hours, ask questions inside and outside of class, let us know what difficulties you are having. We want to hear from you and we want to help you succeed. The TAs at the Math Tutoring Table are another resource for you. A list of all resources:
+
+- Instructor's drop-in hours, availability in and outside of class
+- Teaching Assistants: TAs will be available for help at the Tutoring Center (schedule will be posted in canvas)
+- CAPS: Center for Academic Program Support. Located on the 3rd floor of Zimmerman Library, (505) 277-7205
+- ESS Center: Engineering Student Success Center, (505) 277-4354
+- Student Health and Counseling (SHAC) at (505) 277-3136.
+- LoboRESPECT Advocacy Center (505) 277-2911 can offer help with contacting faculty and managing challenges that impact your UNM experience.
+
+<a name="resources"></a>Most importantly: Ask questions!! In class, in recitations, at CAPS, to your instructor, to each other. You learn the most when you figure out what questions you have, formulate them, and find the answers to them. This is not the same as asking "how do you do this problem?" A better question would be "I tried this and got stuck, I don't see alternatives, can you help?" or, in class, "I don't see how that follows, can you explain?"
 
 
 
