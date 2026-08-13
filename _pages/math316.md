@@ -96,7 +96,7 @@ If you decide to withdraw from the course you need to do so before the last day 
 | 13. <br> Nov. 9, 11, 13 |  **Ch 5. Nonlinear systems** <br> &nbsp;&nbsp; 35. Second order as system, equilibria, linearization (5.1)  <br> &nbsp;&nbsp; 36. Review <br> &nbsp;&nbsp; 37. **Exam 4 (HW 9-11)** |5.1, Review 4 | HW 12, due Tues Nov. 17 for day 35|
 | 14. <br> Nov. 16, 18, 20 |   &nbsp;&nbsp; 38. Simple example, competing species (5.1) <br> &nbsp;&nbsp; 39. Lotka-Volterra Model (predator-prey) (5.3.1)<br> &nbsp;&nbsp; 40.  Nonlinear mechanics, pendulum (5.2)  | 5.1, 5.2, 5.3 |  HW 13, due Tues Nov. 24 for days 38,39,40|
 | 15. <br> Nov. 23, 25, 27 |  &nbsp;&nbsp; 41. Epidemics, chemical kinetics (5.3.3) <br> &nbsp;&nbsp; 42. Nonlinear systems, bifurcations (5.5) <br> &nbsp;&nbsp;  *No class, Thanksgiving break*| 5.2, 5.3, 5.5 | HW 14, due Tues Dec.1 for days 41,42|
-| 16. <br> Nov. 30, Dec. 2, 4 |  &nbsp;&nbsp; 43. Review for final <br> &nbsp;&nbsp; 44. Review for final <br> &nbsp;&nbsp; 45. Review for final| [Final Review| No HW!|
+| 16. <br> Nov. 30, Dec. 2, 4 |  &nbsp;&nbsp; 43. Review for final <br> &nbsp;&nbsp; 44. Review for final <br> &nbsp;&nbsp; 45. Review for final| Final Review| No HW!|
 
 <a name="resources"></a>**List of resources:** There are several resources to help you succeed in this class. Please consider your instructor your primary resource. Visit them during drop-in hours help hours, ask questions inside and outside of class, let us know what difficulties you are having. We want to hear from you and we want to help you succeed. The TAs at the Math Tutoring Table are another resource for you. A list of all resources:
 
