@@ -25,7 +25,7 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
  
 ##### Upcoming Activities<br/> 
 * November 2026, Participant, [AIM SQuaRE for research collaboration](https://aimath.org/programs/squares/), Pasadena, CA
-* January 2027, Participant, [Focused Research Group Award at NITMB](https://www.nitmb.org/focused-research-group-awards/), Chicago, IL
+* January 2027, Participant, [NITMB Focused Research Group for research collaboration](https://www.nitmb.org/focused-research-group-awards/), Chicago, IL
 * January 2027, Invited speaker, [Joint Mathematics Meeting](https://jointmathematicsmeetings.org/jmm), Chicago, IL
 
 <details close>
