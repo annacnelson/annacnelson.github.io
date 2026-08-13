@@ -7,6 +7,9 @@ nav_order: 1
 ---
 - **Instructors:** Michael Heitzman, Anna Nelson, Bill Spotz, Tada Takahashi
 - **Coordinator:** Anna Nelson, annanelson@unm.edu, SMLC 226
+- **Teaching Assistants:** Graduate student teaching assistants (Tanner and Jose) are available for tutoring and support at the Math Tutoring Center/Calc Table (SMLC 130, Gathering Place) at the following times
+    - Jose: Thursday, 1:00-2:30pm
+    - Tanner: Monday, Wednesday, 10:00-11:30am 
 
 ---
 
