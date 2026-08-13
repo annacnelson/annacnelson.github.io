@@ -2,7 +2,7 @@
 layout: page
 permalink: /math316/
 title: Fall 2026, Math 316 - Applied Ordinary Differential Equations - All sections
-nav: true
+nav: false
 nav_order: 1
 ---
 - **Instructors:** Michael Heitzman, Anna Nelson, Bill Spotz, Tada Takahashi
