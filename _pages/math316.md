@@ -42,9 +42,9 @@ how problem solutions meet the problem objectives.
 |4 mid-semester exams | 60%|
 |Cumulative final exam | 22%|
 
-The lowest two homework scores and the lowest quiz score will be dropped when calculating your course grade. Participation in all aspects of the course is required. Therefore, you cannot pass the class unless you score at least 50\% of your total Homework grade. In addition, your instructor may choose to assign up to 20 points for attendance and participation. Participation may be in the form of reading material for the course, completing worksheets in class, etc.
+The lowest two homework scores will be dropped when calculating your course grade. Participation in all aspects of the course is required. Therefore, you cannot pass the class unless you score at least 50% of your total Homework grade. In addition, your instructor may choose to take attendance and grade participation. Participation may be in the form of reading material for the course, completing worksheets in class, etc.
 
-Your current percentage grade will always be visible in your Canvas page. A comprehensive 90\%, 80\%, or 70\% grade will guarantee a passing grade of A,B or C, respectively, in the course. However, a grade below 70\% does not mean you will fail the class. While your instructor will give general feedback on grades in class, you should make sure to contact your instructor directly anytime you want to know more closely what your standing in the course is. In particular, you need to contact your instructor before deciding to drop the course.
+Your current percentage grade will always be visible in your Canvas page. A comprehensive 90%, 80%, or 70% grade will guarantee a passing grade of A,B or C, respectively, in the course. However, a grade below 70% does not mean you will fail the class. While your instructor will give general feedback on grades in class, you should make sure to contact your instructor directly anytime you want to know more closely what your standing in the course is. In particular, you need to contact your instructor before deciding to drop the course.
 
 If you decide to withdraw from the course you need to do so before the last day of classes. We do not assign a grade of W after the last Friday of classes.
 
