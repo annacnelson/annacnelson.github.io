@@ -38,7 +38,7 @@ how problem solutions meet the problem objectives.
 |Assessment|Grade percentage| 
 |---|---|
 |Weekly homework | 14%|
-|In class quizzes | 4%|
+|Instructor discretion | 4%|
 |4 mid-semester exams | 60%|
 |Cumulative final exam | 22%|
 
