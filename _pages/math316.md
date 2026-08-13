@@ -33,7 +33,7 @@ that others who do not know the result can follow your work.
 
 **Grading:** Your [course grade](#course-grade) will be determined from weekly homework, 4 mid-semester exams, and a final exam. Attendance and participation in all aspects of the course is required. Therefore, you need at least 50% in your total Homework score to pass the class. Note that inconsistent attendance and homework can lead to instructor-drop (see [Attendance](#attendance)). See below for [Grade Mode Change](#grade-change) and Academic Dishonesty. Your final course grade will be determined by 
 
-|Assessment|Grade percentage| 
+<a name="course-grade"></a>|Assessment|Grade percentage| 
 |---|---|
 |Weekly homework | 14%|
 |Instructor discretion | 4%|
