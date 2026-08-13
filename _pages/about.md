@@ -24,15 +24,17 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
  <hr/>
  
 ##### Upcoming Activities<br/> 
-* May 2026, Invited speaker, [Cal Poly Mathematics Colloquium](https://math.calpoly.edu/colloquium-and-seminar-schedules), San Luis Osbispo, CA
-* June 2026, Invited participant [NITMB Workshop on Extreme Events in Biological Functions](https://www.nitmb.org/extreme-events-workshop), Chicago, IL
-* July 2026, Minisymposia organizer and speaker [SIAM Annual/Life Sciences 2026](https://www.siam.org/conferences-events/siam-conferences/ls26/), Cleveland, OH
-* July 2026, Special session organizer and invited speaker [ECMTB/SMB 2026](https://ecmtb2026.org), Graz, Austria
 * November 2026, Participant, [AIM SQuaRE for research collaboration](https://aimath.org/programs/squares/), Pasadena, CA
+* January 2027, Participant, [Focused Research Group Award at NITMB](https://www.nitmb.org/focused-research-group-awards/), Chicago, IL
+* January 2027, Invited speaker, [Joint Mathematics Meeting](https://jointmathematicsmeetings.org/jmm), Chicago, IL
 
 <details close>
 <summary>Recent Activities</summary> 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2026, Invited speaker, <a href="https://acms.nd.edu/events/">Notre Dame ACMS Applied Math Seminar</a>, Notre Dame, IN<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 2026, Special session organizer and invited speaker, <a href="https://ecmtb2026.org">ECMTB/SMB 2026</a>, Graz, Austria<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 2026, Minisymposia organizer and speaker, <a href="https://www.siam.org/conferences-events/siam-conferences/ls26/">SIAM Annual/Life Sciences 2026</a>, Cleveland, OH<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; June 2026, Invited speaker and participant, <a href="https://www.nitmb.org/extreme-events-workshop">NITMB Workshop on Extreme Events in Biological Function</a>, Chicago, IL<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2026, Invited speaker, <a href="https://math.calpoly.edu/colloquium-and-seminar-schedules">Cal Poly Mathematics Colloquium</a>, San Luis Obispo, CA<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 2026, Invited speaker, <a href="https://acms.nd.edu/events/">Notre Dame ACMS Applied Math Seminar</a>, Notre Dame, IN<br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  March 2026, Special session organizer and speaker, <a href = "https://www.ams.org/meetings/sectional/2327_program.html">AMS Spring Western Sectional Meeting</a>, Boise, ID<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; February 2026, Invited speaker, <a href="https://math.asu.edu/asu-events-category/career-events?page=1">Arizona State University Math Biology Seminar</a>, Tempe, AZ <br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2026, Invited speaker, <a href="https://jointmathematicsmeetings.org/jmm">JMM 2026</a>, Washington, D.C. <br/>
