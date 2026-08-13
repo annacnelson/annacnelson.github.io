@@ -2,7 +2,7 @@
 layout: page
 permalink: /math316/
 title: Fall 2026, Math 316 - Applied Ordinary Differential Equations - All sections
-nav: false
+nav: true
 nav_order: 1
 ---
 - **Instructors:** Michael Heitzman, Anna Nelson, Bill Spotz, Tada Takahashi
@@ -27,7 +27,7 @@ how problem solutions meet the problem objectives.
 **Prerequisite:** Math 1522 (Calculus II)
 **Corequisite:** Calculus III — Math 2350 or Math 2351
 
-**Prerequisites & Review:** We will use the differentiation and integration methods you learned in Math 1512 and Math 1522. A sample of review problems is posted on Canvas so you can review before the semester starts and be well prepared. (For solutions, see Canvas). The goal of mathematics courses at UNM is to build your skills and strengthen them as you go semester after semester. Review is needed, but don't worry if you do not feel 100\% confident to start with. We will review as we go and gain skill and confidence throughout. If you have not taken a mathematics course in the last 3 semesters, we recommend that you do not take Calculus III and Math 316 concurrently. Math 316 is offered every summer at UNM which gives you an opportunity to take it at that point. Please meet with your instructor if you wish to talk about which is the appropriate course for you.
+**Prerequisites & Review:** We will use the differentiation and integration methods you learned in Math 1512 and Math 1522. A sample of review problems is posted on Canvas and [here](/assets/teaching/math316/prereview.pdf)so you can review before the semester starts and be well prepared. (For solutions, see Canvas). The goal of mathematics courses at UNM is to build your skills and strengthen them as you go semester after semester. Review is needed, but don't worry if you do not feel 100\% confident to start with. We will review as we go and gain skill and confidence throughout. If you have not taken a mathematics course in the last 3 semesters, we recommend that you do not take Calculus III and Math 316 concurrently. Math 316 is offered every summer at UNM which gives you an opportunity to take it at that point. Please meet with your instructor if you wish to talk about which is the appropriate course for you.
 
 **Textbook:** J. David Logan, *A first course in differential equations*, 3rd edition (available [here](https://link.springer.com/book/10.1007/978-3-319-17852-3))
 
@@ -97,16 +97,16 @@ If you decide to withdraw from the course you need to do so before the last day 
 | 15. <br> Nov. 23, 25, 27 |  &nbsp;&nbsp; 42. Epidemics, chemical kinetics (5.3.3) <br> &nbsp;&nbsp; 43. Nonlinear systems, bifurcations (5.5) <br> &nbsp;&nbsp; 44. *No class, Thanksgiving break*| 5.2, 5.3, 5.5 | HW 14, due Tues Dec.1 for days 42,43|
 | 16. <br> Nov. 30, Dec. 2, 4 |  &nbsp;&nbsp; 45. Review for final <br> &nbsp;&nbsp; 46. Review for final <br> &nbsp;&nbsp; 47. Review for final| [Final Review| No HW!|
 
-**List of resources:** There are several resources to help you succeed in this class. Please consider your instructor your primary resource. Visit them during drop-in hours help hours, ask questions inside and outside of class, let us know what difficulties you are having. We want to hear from you and we want to help you succeed. The TAs at the Math Tutoring Table are another resource for you. A list of all resources:
+<a name="resources"></a>**List of resources:** There are several resources to help you succeed in this class. Please consider your instructor your primary resource. Visit them during drop-in hours help hours, ask questions inside and outside of class, let us know what difficulties you are having. We want to hear from you and we want to help you succeed. The TAs at the Math Tutoring Table are another resource for you. A list of all resources:
 
 - Instructor's drop-in hours, availability in and outside of class
-- Teaching Assistants: TAs will be available for help at the Tutoring Center (schedule will be posted in canvas)
+- Teaching Assistants: TAs will be available for help at the Tutoring Center (schedule will be posted in Canvas)
 - CAPS: Center for Academic Program Support. Located on the 3rd floor of Zimmerman Library, (505) 277-7205
 - ESS Center: Engineering Student Success Center, (505) 277-4354
 - Student Health and Counseling (SHAC) at (505) 277-3136.
 - LoboRESPECT Advocacy Center (505) 277-2911 can offer help with contacting faculty and managing challenges that impact your UNM experience.
 
-<a name="resources"></a>Most importantly: Ask questions!! In class, in recitations, at CAPS, to your instructor, to each other. You learn the most when you figure out what questions you have, formulate them, and find the answers to them. This is not the same as asking "how do you do this problem?" A better question would be "I tried this and got stuck, I don't see alternatives, can you help?" or, in class, "I don't see how that follows, can you explain?"
+Most importantly: Ask questions!! In class, in recitations, at CAPS, to your instructor, to each other. You learn the most when you figure out what questions you have, formulate them, and find the answers to them. This is not the same as asking "how do you do this problem?" A better question would be "I tried this and got stuck, I don't see alternatives, can you help?" or, in class, "I don't see how that follows, can you explain?"
 
 
 
