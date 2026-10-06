@@ -78,7 +78,7 @@ Referral to other sources outside of the material given in class (such as search
 |Friday November 6|Last day to drop on LoboWeb|
 |**Friday November 13**|**Fourth in-class exam**|
 |Thurs.-Fri. November 26-27|Thanksgiving Break, no classes|
-|**Mon.-Fri. December 7-11**|**Finals week**|
+|**Monday December 7**|[**Final exam**, 10:00am-12:00pm](https://schedule.unm.edu/assets/finals/fall-2026.pdf)|
 
 
 ---
