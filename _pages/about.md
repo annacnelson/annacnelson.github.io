@@ -24,8 +24,6 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
  <hr/>
  
 ##### Upcoming Activities<br/> 
-* October 2026, Invited speaker, [Texas Tech Biomathematics Seminar](https://www.math.ttu.edu/events/seminars/biomath/2026/fall/), Online
-* October 2026, Invited speaker [SIAM New York-New Jersey-Pennsylvania Sectional](https://siamnnp2026.sciencesconf.org), Piscataway, NJ
 * November 2026, Participant, [AIM SQuaRE for research collaboration](https://aimath.org/programs/squares/), Pasadena, CA
 * November 2026, Invited speaker, [Kennesaw State Mathematics Colloquium](https://campus.kennesaw.edu/colleges-departments/csm/academics/mathematics/index.php), Kennesaw, GA
 * January 2027, Participant, [NITMB Focused Research Group for research collaboration](https://www.nitmb.org/focused-research-group-awards/), Chicago, IL
@@ -33,6 +31,8 @@ Outside of mathematics, I enjoy [disc golf](https://www.pdga.com/player/149354),
 
 <details close>
 <summary>Recent Activities</summary> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 2026, Invited speaker, <a href="https://siamnnp2026.sciencesconf.org">SIAM New York-New Jersey-Pennsylvania Annual Sectional Meeting</a>,Piscataway, NJ<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 2026, Invited speaker, <a href="https://www.math.ttu.edu/events/seminars/biomath/2026/fall/">Texas Tech Biomathematics Seminar</a>,Online<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 2026, Special session organizer and invited speaker, <a href="https://ecmtb2026.org">ECMTB/SMB 2026</a>, Graz, Austria<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 2026, Minisymposia organizer and speaker, <a href="https://www.siam.org/conferences-events/siam-conferences/ls26/">SIAM Annual/Life Sciences 2026</a>, Cleveland, OH<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; June 2026, Invited speaker and participant, <a href="https://www.nitmb.org/extreme-events-workshop">NITMB Workshop on Extreme Events in Biological Function</a>, Chicago, IL<br/>
